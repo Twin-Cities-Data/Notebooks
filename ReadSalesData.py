@@ -13,4 +13,5 @@ dfSales = spark.createDataFrame(dfSales)
 url='https://raw.githubusercontent.com/Twin-Cities-Data/Datasets/refs/heads/main/Assessing_Department_Parcel_Data_2024_Trim.csv'
 df=pd.read_csv(url)
 df=df.drop_duplicates(['X','Y']).reset_index()
+df['PIN']=df['PIN'].str.replace('p','')
 df=spark.createDataFrame(df)

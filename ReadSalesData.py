@@ -10,6 +10,7 @@ dfSales=dfSales[['PIN','SALE_DATE','COMMUNITY_DESC','NBHD_DESC','PROPTYPE_DESC',
 # Turn pandas DF to spark DF
 dfSales = spark.createDataFrame(dfSales)
 
+#Grab the parcel data
 url='https://raw.githubusercontent.com/Twin-Cities-Data/Datasets/refs/heads/main/Assessing_Department_Parcel_Data_2024_Trim.csv'
 df=pd.read_csv(url)
 df=df.drop_duplicates(['X','Y']).reset_index()

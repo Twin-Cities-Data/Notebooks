@@ -1,0 +1,1051 @@
+,scores,duration,Frames,Prompt,model
+0,5,16.167668104171753,3,"
+You are an expert A",qwen2.5vl:7b
+1,8,23.190631866455078,3,"
+You are an expert A",qwen2.5vl:7b
+2,7,29.013009786605835,3,"
+You are an expert A",qwen2.5vl:7b
+3,7,19.859339952468872,3,"
+You are an expert A",qwen2.5vl:7b
+4,7,17.880790948867798,3,"
+You are an expert A",qwen2.5vl:7b
+5,7,19.51784324645996,3,"
+You are an expert A",qwen2.5vl:7b
+6,6,18.82025384902954,3,"
+You are an expert A",qwen2.5vl:7b
+0,5,26.91610097885132,3,"
+You are an expert A",gemma3:12b
+1,7,20.68325424194336,3,"
+You are an expert A",gemma3:12b
+2,6,26.40274214744568,3,"
+You are an expert A",gemma3:12b
+3,6,25.165117979049683,3,"
+You are an expert A",gemma3:12b
+4,7,29.492733001708984,3,"
+You are an expert A",gemma3:12b
+5,5,25.756781101226807,3,"
+You are an expert A",gemma3:12b
+6,4,25.147706747055054,3,"
+You are an expert A",gemma3:12b
+0,7,19.241449117660522,3,"
+You are an expert A",llava:7b
+1,7,28.96531915664673,3,"
+You are an expert A",llava:7b
+2,7,9.139160871505737,3,"
+You are an expert A",llava:7b
+3,7,17.48004913330078,3,"
+You are an expert A",llava:7b
+4,7,9.631551265716553,3,"
+You are an expert A",llava:7b
+5,7,17.49343776702881,3,"
+You are an expert A",llava:7b
+6,7,10.463605880737305,3,"
+You are an expert A",llava:7b
+0,2,22.159260034561157,3,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,24.41767406463623,3,"
+You are an elite Ol",qwen2.5vl:7b
+2,7,29.713563203811646,3,"
+You are an elite Ol",qwen2.5vl:7b
+3,7,27.42497682571411,3,"
+You are an elite Ol",qwen2.5vl:7b
+4,7,18.90648913383484,3,"
+You are an elite Ol",qwen2.5vl:7b
+5,7,19.972569942474365,3,"
+You are an elite Ol",qwen2.5vl:7b
+6,7,19.989622116088867,3,"
+You are an elite Ol",qwen2.5vl:7b
+0,6,29.004570960998535,3,"
+You are an elite Ol",gemma3:12b
+1,7,28.203481197357178,3,"
+You are an elite Ol",gemma3:12b
+2,7,14.513969898223877,3,"
+You are an elite Ol",gemma3:12b
+3,6,25.468067169189453,3,"
+You are an elite Ol",gemma3:12b
+4,7,24.076299905776978,3,"
+You are an elite Ol",gemma3:12b
+5,5,30.977346181869507,3,"
+You are an elite Ol",gemma3:12b
+6,5,26.22387194633484,3,"
+You are an elite Ol",gemma3:12b
+0,7,18.167435884475708,3,"
+You are an elite Ol",llava:7b
+1,7,18.99136209487915,3,"
+You are an elite Ol",llava:7b
+2,7,30.286006927490234,3,"
+You are an elite Ol",llava:7b
+3,7,14.682334899902344,3,"
+You are an elite Ol",llava:7b
+4,7,16.48324203491211,3,"
+You are an elite Ol",llava:7b
+5,6,19.421715021133423,3,"
+You are an elite Ol",llava:7b
+6,6,17.584044933319092,3,"
+You are an elite Ol",llava:7b
+0,5,13.796885013580322,3,"
+You are a discus co",qwen2.5vl:7b
+1,7,21.517172813415527,3,"
+You are a discus co",qwen2.5vl:7b
+2,6,28.143435955047607,3,"
+You are a discus co",qwen2.5vl:7b
+3,6,23.86936330795288,3,"
+You are a discus co",qwen2.5vl:7b
+4,7,16.7671959400177,3,"
+You are a discus co",qwen2.5vl:7b
+5,6,18.482537031173706,3,"
+You are a discus co",qwen2.5vl:7b
+6,6,19.280845165252686,3,"
+You are a discus co",qwen2.5vl:7b
+0,4,28.439453125,3,"
+You are a discus co",gemma3:12b
+1,6,27.36326289176941,3,"
+You are a discus co",gemma3:12b
+2,4,14.502989053726196,3,"
+You are a discus co",gemma3:12b
+3,5,24.460965156555176,3,"
+You are a discus co",gemma3:12b
+4,4,23.227687120437622,3,"
+You are a discus co",gemma3:12b
+5,4,29.59376287460327,3,"
+You are a discus co",gemma3:12b
+6,3,25.645404815673828,3,"
+You are a discus co",gemma3:12b
+0,4,18.138745069503784,3,"
+You are a discus co",llava:7b
+1,7,19.721395015716553,3,"
+You are a discus co",llava:7b
+2,6,30.588387966156006,3,"
+You are a discus co",llava:7b
+3,6,9.926445960998535,3,"
+You are a discus co",llava:7b
+4,7,17.77060890197754,3,"
+You are a discus co",llava:7b
+5,5,11.905053853988647,3,"
+You are a discus co",llava:7b
+6,5,15.774174928665161,3,"
+You are a discus co",llava:7b
+0,4,18.63275170326233,3,"
+You are an AI sport",qwen2.5vl:7b
+1,7,24.674486875534058,3,"
+You are an AI sport",qwen2.5vl:7b
+2,7,30.859354734420776,3,"
+You are an AI sport",qwen2.5vl:7b
+3,7,26.745765924453735,3,"
+You are an AI sport",qwen2.5vl:7b
+4,7,24.237875938415527,3,"
+You are an AI sport",qwen2.5vl:7b
+5,7,19.751744031906128,3,"
+You are an AI sport",qwen2.5vl:7b
+6,6,20.092690229415894,3,"
+You are an AI sport",qwen2.5vl:7b
+0,5,38.333683013916016,3,"
+You are an AI sport",gemma3:12b
+1,6,30.534868001937866,3,"
+You are an AI sport",gemma3:12b
+2,5,16.57526993751526,3,"
+You are an AI sport",gemma3:12b
+3,5,25.601047039031982,3,"
+You are an AI sport",gemma3:12b
+4,5,24.321241855621338,3,"
+You are an AI sport",gemma3:12b
+5,5,31.53072690963745,3,"
+You are an AI sport",gemma3:12b
+6,5,28.505741119384766,3,"
+You are an AI sport",gemma3:12b
+0,7,17.917166233062744,3,"
+You are an AI sport",llava:7b
+1,7,19.32440710067749,3,"
+You are an AI sport",llava:7b
+2,7,29.985874891281128,3,"
+You are an AI sport",llava:7b
+3,7,11.812172651290894,3,"
+You are an AI sport",llava:7b
+4,7,19.593148946762085,3,"
+You are an AI sport",llava:7b
+5,7,10.087530136108398,3,"
+You are an AI sport",llava:7b
+6,7,19.514808177947998,3,"
+You are an AI sport",llava:7b
+0,2,13.734886884689331,3,"
+You are a brutally ",qwen2.5vl:7b
+1,7,24.831446170806885,3,"
+You are a brutally ",qwen2.5vl:7b
+2,6,30.38970971107483,3,"
+You are a brutally ",qwen2.5vl:7b
+3,6,25.97986888885498,3,"
+You are a brutally ",qwen2.5vl:7b
+4,6,24.33923578262329,3,"
+You are a brutally ",qwen2.5vl:7b
+5,6,19.131510972976685,3,"
+You are a brutally ",qwen2.5vl:7b
+6,5,18.511714935302734,3,"
+You are a brutally ",qwen2.5vl:7b
+0,4,37.077548027038574,3,"
+You are a brutally ",gemma3:12b
+1,6,30.41772985458374,3,"
+You are a brutally ",gemma3:12b
+2,4,15.727394819259644,3,"
+You are a brutally ",gemma3:12b
+3,5,31.49498987197876,3,"
+You are a brutally ",gemma3:12b
+4,5,29.359607934951782,3,"
+You are a brutally ",gemma3:12b
+5,4,41.339106798172,3,"
+You are a brutally ",gemma3:12b
+6,4,32.71751618385315,3,"
+You are a brutally ",gemma3:12b
+0,7,21.310829162597656,3,"
+You are a brutally ",llava:7b
+1,7,24.840290069580078,3,"
+You are a brutally ",llava:7b
+2,7,46.87124991416931,3,"
+You are a brutally ",llava:7b
+3,7,13.007692098617554,3,"
+You are a brutally ",llava:7b
+4,7,34.255871057510376,3,"
+You are a brutally ",llava:7b
+5,6,9.289263248443604,3,"
+You are a brutally ",llava:7b
+6,6,44.96209383010864,3,"
+You are a brutally ",llava:7b
+0,8,20.533185958862305,6,"
+You are an expert A",qwen2.5vl:7b
+1,8,59.4373722076416,6,"
+You are an expert A",qwen2.5vl:7b
+2,7,359.1137058734894,6,"
+You are an expert A",qwen2.5vl:7b
+3,8,1942.621375799179,6,"
+You are an expert A",qwen2.5vl:7b
+4,7,974.6460630893707,6,"
+You are an expert A",qwen2.5vl:7b
+5,7,182.05371689796448,6,"
+You are an expert A",qwen2.5vl:7b
+6,7,269.991947889328,6,"
+You are an expert A",qwen2.5vl:7b
+0,7,662.1755599975586,6,"
+You are an expert A",gemma3:12b
+1,7,44.628244161605835,6,"
+You are an expert A",gemma3:12b
+2,6,35.965856075286865,6,"
+You are an expert A",gemma3:12b
+3,6,21.991015195846558,6,"
+You are an expert A",gemma3:12b
+4,7,38.22356605529785,6,"
+You are an expert A",gemma3:12b
+5,4,36.14913582801819,6,"
+You are an expert A",gemma3:12b
+6,4,47.749533891677856,6,"
+You are an expert A",gemma3:12b
+0,7,30.904886960983276,6,"
+You are an expert A",llava:7b
+1,8,28.34153127670288,6,"
+You are an expert A",llava:7b
+2,8,31.10373091697693,6,"
+You are an expert A",llava:7b
+3,7,49.820247173309326,6,"
+You are an expert A",llava:7b
+4,7,22.264761209487915,6,"
+You are an expert A",llava:7b
+5,7,27.762670040130615,6,"
+You are an expert A",llava:7b
+6,7,32.36942791938782,6,"
+You are an expert A",llava:7b
+0,8,17.143105030059814,6,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,35.14433312416077,6,"
+You are an elite Ol",qwen2.5vl:7b
+2,7,47.17038321495056,6,"
+You are an elite Ol",qwen2.5vl:7b
+3,7,39.30837917327881,6,"
+You are an elite Ol",qwen2.5vl:7b
+4,7,27.529602766036987,6,"
+You are an elite Ol",qwen2.5vl:7b
+5,7,30.922852993011475,6,"
+You are an elite Ol",qwen2.5vl:7b
+6,7,31.300389051437378,6,"
+You are an elite Ol",qwen2.5vl:7b
+0,8,54.358519077301025,6,"
+You are an elite Ol",gemma3:12b
+1,7,42.28713083267212,6,"
+You are an elite Ol",gemma3:12b
+2,7,38.747493743896484,6,"
+You are an elite Ol",gemma3:12b
+3,7,39.463842153549194,6,"
+You are an elite Ol",gemma3:12b
+4,7,35.4742968082428,6,"
+You are an elite Ol",gemma3:12b
+5,4,48.27652978897095,6,"
+You are an elite Ol",gemma3:12b
+6,4,39.81640982627869,6,"
+You are an elite Ol",gemma3:12b
+0,7,26.53951096534729,6,"
+You are an elite Ol",llava:7b
+1,7,31.61793804168701,6,"
+You are an elite Ol",llava:7b
+2,7,52.6080482006073,6,"
+You are an elite Ol",llava:7b
+3,7,29.44531798362732,6,"
+You are an elite Ol",llava:7b
+4,7,33.57262706756592,6,"
+You are an elite Ol",llava:7b
+5,6,27.558852910995483,6,"
+You are an elite Ol",llava:7b
+6,6,34.22343897819519,6,"
+You are an elite Ol",llava:7b
+0,7,15.527122259140015,6,"
+You are a discus co",qwen2.5vl:7b
+1,7,34.06751298904419,6,"
+You are a discus co",qwen2.5vl:7b
+2,6,45.281665086746216,6,"
+You are a discus co",qwen2.5vl:7b
+3,6,36.472095012664795,6,"
+You are a discus co",qwen2.5vl:7b
+4,7,24.505792140960693,6,"
+You are a discus co",qwen2.5vl:7b
+5,6,27.4786639213562,6,"
+You are a discus co",qwen2.5vl:7b
+6,6,27.61503791809082,6,"
+You are a discus co",qwen2.5vl:7b
+0,7,47.49832820892334,6,"
+You are a discus co",gemma3:12b
+1,6,39.15626287460327,6,"
+You are a discus co",gemma3:12b
+2,5,33.31261897087097,6,"
+You are a discus co",gemma3:12b
+3,5,38.7433340549469,6,"
+You are a discus co",gemma3:12b
+4,5,33.63369083404541,6,"
+You are a discus co",gemma3:12b
+5,3,48.06917190551758,6,"
+You are a discus co",gemma3:12b
+6,3,38.5593318939209,6,"
+You are a discus co",gemma3:12b
+0,10,26.017369031906128,6,"
+You are a discus co",llava:7b
+1,1,28.983200073242188,6,"
+You are a discus co",llava:7b
+2,1,45.0961651802063,6,"
+You are a discus co",llava:7b
+3,1,19.207687854766846,6,"
+You are a discus co",llava:7b
+4,1,33.48393702507019,6,"
+You are a discus co",llava:7b
+5,1,15.820720195770264,6,"
+You are a discus co",llava:7b
+6,10,35.87368178367615,6,"
+You are a discus co",llava:7b
+0,7,16.26664113998413,6,"
+You are an AI sport",qwen2.5vl:7b
+1,7,35.597975730895996,6,"
+You are an AI sport",qwen2.5vl:7b
+2,7,47.363409757614136,6,"
+You are an AI sport",qwen2.5vl:7b
+3,7,38.44545102119446,6,"
+You are an AI sport",qwen2.5vl:7b
+4,7,35.157323122024536,6,"
+You are an AI sport",qwen2.5vl:7b
+5,7,29.019548177719116,6,"
+You are an AI sport",qwen2.5vl:7b
+6,7,28.873466730117798,6,"
+You are an AI sport",qwen2.5vl:7b
+0,7,53.08230400085449,6,"
+You are an AI sport",gemma3:12b
+1,6,40.34633779525757,6,"
+You are an AI sport",gemma3:12b
+2,5,41.790974140167236,6,"
+You are an AI sport",gemma3:12b
+3,5,32.84330892562866,6,"
+You are an AI sport",gemma3:12b
+4,5,38.31369614601135,6,"
+You are an AI sport",gemma3:12b
+5,5,34.16571378707886,6,"
+You are an AI sport",gemma3:12b
+6,5,48.84054493904114,6,"
+You are an AI sport",gemma3:12b
+0,7,28.449001789093018,6,"
+You are an AI sport",llava:7b
+1,7,27.09393000602722,6,"
+You are an AI sport",llava:7b
+2,7,30.507140636444092,6,"
+You are an AI sport",llava:7b
+3,7,51.874619007110596,6,"
+You are an AI sport",llava:7b
+4,7,26.674638032913208,6,"
+You are an AI sport",llava:7b
+5,4,28.27312397956848,6,"
+You are an AI sport",llava:7b
+6,4,36.111456871032715,6,"
+You are an AI sport",llava:7b
+0,7,17.743360996246338,6,"
+You are a brutally ",qwen2.5vl:7b
+1,7,35.70724081993103,6,"
+You are a brutally ",qwen2.5vl:7b
+2,6,48.00264024734497,6,"
+You are a brutally ",qwen2.5vl:7b
+3,6,38.64244818687439,6,"
+You are a brutally ",qwen2.5vl:7b
+4,6,36.23249912261963,6,"
+You are a brutally ",qwen2.5vl:7b
+5,6,29.824617862701416,6,"
+You are a brutally ",qwen2.5vl:7b
+6,6,30.919623136520386,6,"
+You are a brutally ",qwen2.5vl:7b
+0,7,53.67255091667175,6,"
+You are a brutally ",gemma3:12b
+1,6,41.63071393966675,6,"
+You are a brutally ",gemma3:12b
+2,,0.38875699043273926,6,"
+You are a brutally ",gemma3:12b
+3,5,50.9970281124115,6,"
+You are a brutally ",gemma3:12b
+4,5,28.232224225997925,6,"
+You are a brutally ",gemma3:12b
+5,4,44.154624938964844,6,"
+You are a brutally ",gemma3:12b
+6,4,39.449303150177,6,"
+You are a brutally ",gemma3:12b
+0,7,42.20400619506836,6,"
+You are a brutally ",llava:7b
+1,7,35.86988306045532,6,"
+You are a brutally ",llava:7b
+2,10,32.24979615211487,6,"
+You are a brutally ",llava:7b
+3,7,35.34434485435486,6,"
+You are a brutally ",llava:7b
+4,7,65.38999605178833,6,"
+You are a brutally ",llava:7b
+5,7,32.303183794021606,6,"
+You are a brutally ",llava:7b
+6,7,32.48061013221741,6,"
+You are a brutally ",llava:7b
+0,8,50.14059400558472,9,"
+You are an expert A",qwen2.5vl:7b
+1,8,45.78635025024414,9,"
+You are an expert A",qwen2.5vl:7b
+2,2,59.02108120918274,9,"
+You are an expert A",qwen2.5vl:7b
+3,8,52.30698585510254,9,"
+You are an expert A",qwen2.5vl:7b
+4,7,46.89246320724487,9,"
+You are an expert A",qwen2.5vl:7b
+5,7,35.7557258605957,9,"
+You are an expert A",qwen2.5vl:7b
+6,7,36.1045868396759,9,"
+You are an expert A",qwen2.5vl:7b
+0,7,68.57230687141418,9,"
+You are an expert A",gemma3:12b
+1,7,58.92071294784546,9,"
+You are an expert A",gemma3:12b
+2,6,47.30631899833679,9,"
+You are an expert A",gemma3:12b
+3,6,51.95031404495239,9,"
+You are an expert A",gemma3:12b
+4,7,47.30631613731384,9,"
+You are an expert A",gemma3:12b
+5,5,64.4672040939331,9,"
+You are an expert A",gemma3:12b
+6,4,53.601516008377075,9,"
+You are an expert A",gemma3:12b
+0,7,30.90206503868103,9,"
+You are an expert A",llava:7b
+1,7,35.88449215888977,9,"
+You are an expert A",llava:7b
+2,7,57.460586071014404,9,"
+You are an expert A",llava:7b
+3,7,25.952975273132324,9,"
+You are an expert A",llava:7b
+4,7,41.02259683609009,9,"
+You are an expert A",llava:7b
+5,7,22.416797161102295,9,"
+You are an expert A",llava:7b
+6,7,39.9737389087677,9,"
+You are an expert A",llava:7b
+0,8,27.142196893692017,9,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,47.1352379322052,9,"
+You are an elite Ol",qwen2.5vl:7b
+2,2,63.865050077438354,9,"
+You are an elite Ol",qwen2.5vl:7b
+3,7,52.36061716079712,9,"
+You are an elite Ol",qwen2.5vl:7b
+4,7,47.53285098075867,9,"
+You are an elite Ol",qwen2.5vl:7b
+5,7,35.60920023918152,9,"
+You are an elite Ol",qwen2.5vl:7b
+6,7,35.93338084220886,9,"
+You are an elite Ol",qwen2.5vl:7b
+0,7,65.18616914749146,9,"
+You are an elite Ol",gemma3:12b
+1,7,62.64788103103638,9,"
+You are an elite Ol",gemma3:12b
+2,7,48.35628819465637,9,"
+You are an elite Ol",gemma3:12b
+3,7,52.46943116188049,9,"
+You are an elite Ol",gemma3:12b
+4,7,47.103720903396606,9,"
+You are an elite Ol",gemma3:12b
+5,5,59.31497287750244,9,"
+You are an elite Ol",gemma3:12b
+6,4,51.97860598564148,9,"
+You are an elite Ol",gemma3:12b
+0,7,29.818965911865234,9,"
+You are an elite Ol",llava:7b
+1,7,35.54927110671997,9,"
+You are an elite Ol",llava:7b
+2,7,56.03005385398865,9,"
+You are an elite Ol",llava:7b
+3,7,26.5451340675354,9,"
+You are an elite Ol",llava:7b
+4,7,42.29898500442505,9,"
+You are an elite Ol",llava:7b
+5,6,20.03397822380066,9,"
+You are an elite Ol",llava:7b
+6,6,41.96250319480896,9,"
+You are an elite Ol",llava:7b
+0,8,22.610280990600586,9,"
+You are a discus co",qwen2.5vl:7b
+1,7,45.67277503013611,9,"
+You are a discus co",qwen2.5vl:7b
+2,1,57.74903917312622,9,"
+You are a discus co",qwen2.5vl:7b
+3,6,50.80229091644287,9,"
+You are a discus co",qwen2.5vl:7b
+4,7,45.68171691894531,9,"
+You are a discus co",qwen2.5vl:7b
+5,6,35.28511619567871,9,"
+You are a discus co",qwen2.5vl:7b
+6,5,35.2022500038147,9,"
+You are a discus co",qwen2.5vl:7b
+0,6,63.17522096633911,9,"
+You are a discus co",gemma3:12b
+1,6,62.082902908325195,9,"
+You are a discus co",gemma3:12b
+2,5,49.51487398147583,9,"
+You are a discus co",gemma3:12b
+3,5,54.000121116638184,9,"
+You are a discus co",gemma3:12b
+4,4,47.42814087867737,9,"
+You are a discus co",gemma3:12b
+5,3,61.22098088264465,9,"
+You are a discus co",gemma3:12b
+6,3,52.65040588378906,9,"
+You are a discus co",gemma3:12b
+0,7,30.975804805755615,9,"
+You are a discus co",llava:7b
+1,1,35.99635410308838,9,"
+You are a discus co",llava:7b
+2,1,49.525349855422974,9,"
+You are a discus co",llava:7b
+3,1,30.941750049591064,9,"
+You are a discus co",llava:7b
+4,7,39.026808738708496,9,"
+You are a discus co",llava:7b
+5,4,24.23560667037964,9,"
+You are a discus co",llava:7b
+6,4,40.90310001373291,9,"
+You are a discus co",llava:7b
+0,7,26.095666885375977,9,"
+You are an AI sport",qwen2.5vl:7b
+1,7,47.579679012298584,9,"
+You are an AI sport",qwen2.5vl:7b
+2,4,60.073599100112915,9,"
+You are an AI sport",qwen2.5vl:7b
+3,7,52.43186593055725,9,"
+You are an AI sport",qwen2.5vl:7b
+4,7,50.43027186393738,9,"
+You are an AI sport",qwen2.5vl:7b
+5,7,37.226346015930176,9,"
+You are an AI sport",qwen2.5vl:7b
+6,7,35.86979293823242,9,"
+You are an AI sport",qwen2.5vl:7b
+0,6,64.84980082511902,9,"
+You are an AI sport",gemma3:12b
+1,6,63.27148723602295,9,"
+You are an AI sport",gemma3:12b
+2,5,45.39297103881836,9,"
+You are an AI sport",gemma3:12b
+3,5,51.791057109832764,9,"
+You are an AI sport",gemma3:12b
+4,5,45.95635008811951,9,"
+You are an AI sport",gemma3:12b
+5,5,58.80536985397339,9,"
+You are an AI sport",gemma3:12b
+6,4,51.23673176765442,9,"
+You are an AI sport",gemma3:12b
+0,7,29.697290897369385,9,"
+You are an AI sport",llava:7b
+1,7,33.81962823867798,9,"
+You are an AI sport",llava:7b
+2,7,53.51067590713501,9,"
+You are an AI sport",llava:7b
+3,7,24.16251516342163,9,"
+You are an AI sport",llava:7b
+4,7,28.57372808456421,9,"
+You are an AI sport",llava:7b
+5,4,30.344491004943848,9,"
+You are an AI sport",llava:7b
+6,4,18.727920055389404,9,"
+You are an AI sport",llava:7b
+0,7,46.00889587402344,9,"
+You are a brutally ",qwen2.5vl:7b
+1,7,46.6038920879364,9,"
+You are a brutally ",qwen2.5vl:7b
+2,8,60.54457092285156,9,"
+You are a brutally ",qwen2.5vl:7b
+3,6,50.81914806365967,9,"
+You are a brutally ",qwen2.5vl:7b
+4,6,46.85377907752991,9,"
+You are a brutally ",qwen2.5vl:7b
+5,6,34.65526604652405,9,"
+You are a brutally ",qwen2.5vl:7b
+6,6,34.22080588340759,9,"
+You are a brutally ",qwen2.5vl:7b
+0,7,62.363795042037964,9,"
+You are a brutally ",gemma3:12b
+1,6,60.52560496330261,9,"
+You are a brutally ",gemma3:12b
+2,5,47.52053713798523,9,"
+You are a brutally ",gemma3:12b
+3,5,56.13728213310242,9,"
+You are a brutally ",gemma3:12b
+4,5,51.35393786430359,9,"
+You are a brutally ",gemma3:12b
+5,4,58.16730976104736,9,"
+You are a brutally ",gemma3:12b
+6,3,56.17560291290283,9,"
+You are a brutally ",gemma3:12b
+0,7,32.815863847732544,9,"
+You are a brutally ",llava:7b
+1,7,39.78874897956848,9,"
+You are a brutally ",llava:7b
+2,7,71.43949007987976,9,"
+You are a brutally ",llava:7b
+3,7,21.062546968460083,9,"
+You are a brutally ",llava:7b
+4,7,52.333977937698364,9,"
+You are a brutally ",llava:7b
+5,7,17.840140104293823,9,"
+You are a brutally ",llava:7b
+6,7,45.37111711502075,9,"
+You are a brutally ",llava:7b
+0,8,31.805136680603027,12,"
+You are an expert A",qwen2.5vl:7b
+1,8,56.191219091415405,12,"
+You are an expert A",qwen2.5vl:7b
+2,2,65.6732280254364,12,"
+You are an expert A",qwen2.5vl:7b
+3,8,62.374040842056274,12,"
+You are an expert A",qwen2.5vl:7b
+4,7,57.428714990615845,12,"
+You are an expert A",qwen2.5vl:7b
+5,7,40.693275928497314,12,"
+You are an expert A",qwen2.5vl:7b
+6,7,40.65093398094177,12,"
+You are an expert A",qwen2.5vl:7b
+0,7,78.5173499584198,12,"
+You are an expert A",gemma3:12b
+1,7,69.01145482063293,12,"
+You are an expert A",gemma3:12b
+2,6,44.17501735687256,12,"
+You are an expert A",gemma3:12b
+3,6,64.34592628479004,12,"
+You are an expert A",gemma3:12b
+4,6,57.004019021987915,12,"
+You are an expert A",gemma3:12b
+5,5,71.70076084136963,12,"
+You are an expert A",gemma3:12b
+6,4,65.0933141708374,12,"
+You are an expert A",gemma3:12b
+0,7,33.35601997375488,12,"
+You are an expert A",llava:7b
+1,7,39.61314105987549,12,"
+You are an expert A",llava:7b
+2,7,62.11841320991516,12,"
+You are an expert A",llava:7b
+3,7,30.67022180557251,12,"
+You are an expert A",llava:7b
+4,7,35.34657287597656,12,"
+You are an expert A",llava:7b
+5,7,33.22844696044922,12,"
+You are an expert A",llava:7b
+6,7,36.79856204986572,12,"
+You are an expert A",llava:7b
+0,8,41.2451810836792,12,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,57.891793966293335,12,"
+You are an elite Ol",qwen2.5vl:7b
+2,2,69.90264916419983,12,"
+You are an elite Ol",qwen2.5vl:7b
+3,7,63.50061893463135,12,"
+You are an elite Ol",qwen2.5vl:7b
+4,7,58.10641098022461,12,"
+You are an elite Ol",qwen2.5vl:7b
+5,7,40.24571490287781,12,"
+You are an elite Ol",qwen2.5vl:7b
+6,7,40.06970810890198,12,"
+You are an elite Ol",qwen2.5vl:7b
+0,8,72.82728028297424,12,"
+You are an elite Ol",gemma3:12b
+1,8,67.3415915966034,12,"
+You are an elite Ol",gemma3:12b
+2,7,53.57968997955322,12,"
+You are an elite Ol",gemma3:12b
+3,7,64.07924723625183,12,"
+You are an elite Ol",gemma3:12b
+4,6,56.79822015762329,12,"
+You are an elite Ol",gemma3:12b
+5,4,66.32781600952148,12,"
+You are an elite Ol",gemma3:12b
+6,4,63.9240779876709,12,"
+You are an elite Ol",gemma3:12b
+0,7,32.84648823738098,12,"
+You are an elite Ol",llava:7b
+1,7,38.865150928497314,12,"
+You are an elite Ol",llava:7b
+2,7,58.13629126548767,12,"
+You are an elite Ol",llava:7b
+3,7,32.65434288978577,12,"
+You are an elite Ol",llava:7b
+4,7,39.361023902893066,12,"
+You are an elite Ol",llava:7b
+5,7,29.61406898498535,12,"
+You are an elite Ol",llava:7b
+6,6,38.53790092468262,12,"
+You are an elite Ol",llava:7b
+0,8,38.15331983566284,12,"
+You are a discus co",qwen2.5vl:7b
+1,7,56.04438090324402,12,"
+You are a discus co",qwen2.5vl:7b
+2,1,65.47025036811829,12,"
+You are a discus co",qwen2.5vl:7b
+3,6,62.21898913383484,12,"
+You are a discus co",qwen2.5vl:7b
+4,7,55.934675216674805,12,"
+You are a discus co",qwen2.5vl:7b
+5,6,39.270034074783325,12,"
+You are a discus co",qwen2.5vl:7b
+6,6,39.26783299446106,12,"
+You are a discus co",qwen2.5vl:7b
+0,6,70.22343397140503,12,"
+You are a discus co",gemma3:12b
+1,6,67.58226418495178,12,"
+You are a discus co",gemma3:12b
+2,3,55.00886583328247,12,"
+You are a discus co",gemma3:12b
+3,3,63.008108139038086,12,"
+You are a discus co",gemma3:12b
+4,4,57.05514430999756,12,"
+You are a discus co",gemma3:12b
+5,3,65.08541011810303,12,"
+You are a discus co",gemma3:12b
+6,3,63.020551919937134,12,"
+You are a discus co",gemma3:12b
+0,1,33.36162614822388,12,"
+You are a discus co",llava:7b
+1,1,39.92206621170044,12,"
+You are a discus co",llava:7b
+2,1,53.65255808830261,12,"
+You are a discus co",llava:7b
+3,1,36.60387587547302,12,"
+You are a discus co",llava:7b
+4,7,32.73570513725281,12,"
+You are a discus co",llava:7b
+5,4,35.79341912269592,12,"
+You are a discus co",llava:7b
+6,4,31.48077917098999,12,"
+You are a discus co",llava:7b
+0,7,47.37696719169617,12,"
+You are an AI sport",qwen2.5vl:7b
+1,7,57.942665815353394,12,"
+You are an AI sport",qwen2.5vl:7b
+2,4,66.5529887676239,12,"
+You are an AI sport",qwen2.5vl:7b
+3,7,63.682904958724976,12,"
+You are an AI sport",qwen2.5vl:7b
+4,7,57.527190923690796,12,"
+You are an AI sport",qwen2.5vl:7b
+5,7,39.851858139038086,12,"
+You are an AI sport",qwen2.5vl:7b
+6,7,39.39893698692322,12,"
+You are an AI sport",qwen2.5vl:7b
+0,6,71.92147302627563,12,"
+You are an AI sport",gemma3:12b
+1,6,69.61793613433838,12,"
+You are an AI sport",gemma3:12b
+2,5,51.651395082473755,12,"
+You are an AI sport",gemma3:12b
+3,5,63.865782022476196,12,"
+You are an AI sport",gemma3:12b
+4,5,57.38182878494263,12,"
+You are an AI sport",gemma3:12b
+5,5,68.65725994110107,12,"
+You are an AI sport",gemma3:12b
+6,4,65.81748604774475,12,"
+You are an AI sport",gemma3:12b
+0,7,34.255038022994995,12,"
+You are an AI sport",llava:7b
+1,7,39.69734811782837,12,"
+You are an AI sport",llava:7b
+2,7,59.95162916183472,12,"
+You are an AI sport",llava:7b
+3,7,34.320722818374634,12,"
+You are an AI sport",llava:7b
+4,7,18.49442982673645,12,"
+You are an AI sport",llava:7b
+5,4,42.67796587944031,12,"
+You are an AI sport",llava:7b
+6,4,27.382115840911865,12,"
+You are an AI sport",llava:7b
+0,8,25.606051921844482,12,"
+You are a brutally ",qwen2.5vl:7b
+1,7,59.52650284767151,12,"
+You are a brutally ",qwen2.5vl:7b
+2,8,72.21833395957947,12,"
+You are a brutally ",qwen2.5vl:7b
+3,6,70.10924792289734,12,"
+You are a brutally ",qwen2.5vl:7b
+4,6,62.85762977600098,12,"
+You are a brutally ",qwen2.5vl:7b
+5,6,68.53983473777771,12,"
+You are a brutally ",qwen2.5vl:7b
+6,6,40.649815797805786,12,"
+You are a brutally ",qwen2.5vl:7b
+0,7,83.63853693008423,12,"
+You are a brutally ",gemma3:12b
+1,6,77.95424699783325,12,"
+You are a brutally ",gemma3:12b
+2,4,68.7497091293335,12,"
+You are a brutally ",gemma3:12b
+3,4,69.78560876846313,12,"
+You are a brutally ",gemma3:12b
+4,5,62.339925050735474,12,"
+You are a brutally ",gemma3:12b
+5,4,67.9389500617981,12,"
+You are a brutally ",gemma3:12b
+6,3,69.66031503677368,12,"
+You are a brutally ",gemma3:12b
+0,7,35.28826904296875,12,"
+You are a brutally ",llava:7b
+1,7,43.26696276664734,12,"
+You are a brutally ",llava:7b
+2,7,75.83784914016724,12,"
+You are a brutally ",llava:7b
+3,7,30.703787088394165,12,"
+You are a brutally ",llava:7b
+4,7,48.05837893486023,12,"
+You are a brutally ",llava:7b
+5,7,30.046803951263428,12,"
+You are a brutally ",llava:7b
+6,7,38.246654987335205,12,"
+You are a brutally ",llava:7b
+0,2,50.07681202888489,15,"
+You are an expert A",qwen2.5vl:7b
+1,8,68.85165882110596,15,"
+You are an expert A",qwen2.5vl:7b
+2,10,75.09507012367249,15,"
+You are an expert A",qwen2.5vl:7b
+3,2,75.54984211921692,15,"
+You are an expert A",qwen2.5vl:7b
+4,7,70.89249181747437,15,"
+You are an expert A",qwen2.5vl:7b
+5,2,43.732584953308105,15,"
+You are an expert A",qwen2.5vl:7b
+6,10,42.4457471370697,15,"
+You are an expert A",qwen2.5vl:7b
+0,7,93.42988705635071,15,"
+You are an expert A",gemma3:12b
+1,7,78.61275386810303,15,"
+You are an expert A",gemma3:12b
+2,6,75.34701633453369,15,"
+You are an expert A",gemma3:12b
+3,6,70.65987706184387,15,"
+You are an expert A",gemma3:12b
+4,6,79.09143090248108,15,"
+You are an expert A",gemma3:12b
+5,4,75.76613712310791,15,"
+You are an expert A",gemma3:12b
+6,4,70.73071694374084,15,"
+You are an expert A",gemma3:12b
+0,7,41.26008200645447,15,"
+You are an expert A",llava:7b
+1,7,61.87271499633789,15,"
+You are an expert A",llava:7b
+2,7,39.15995001792908,15,"
+You are an expert A",llava:7b
+3,7,31.124635219573975,15,"
+You are an expert A",llava:7b
+4,7,43.10748910903931,15,"
+You are an expert A",llava:7b
+5,7,18.05130696296692,15,"
+You are an expert A",llava:7b
+6,7,43.17224907875061,15,"
+You are an expert A",llava:7b
+0,,42.54429793357849,15,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,69.51167321205139,15,"
+You are an elite Ol",qwen2.5vl:7b
+2,2,81.42898511886597,15,"
+You are an elite Ol",qwen2.5vl:7b
+3,,74.12260818481445,15,"
+You are an elite Ol",qwen2.5vl:7b
+4,7,69.61440515518188,15,"
+You are an elite Ol",qwen2.5vl:7b
+5,,41.69331097602844,15,"
+You are an elite Ol",qwen2.5vl:7b
+6,,41.617512226104736,15,"
+You are an elite Ol",qwen2.5vl:7b
+0,8,82.97795271873474,15,"
+You are an elite Ol",gemma3:12b
+1,7,126.96134996414185,15,"
+You are an elite Ol",gemma3:12b
+2,7,82.88307094573975,15,"
+You are an elite Ol",gemma3:12b
+3,7,122.0162079334259,15,"
+You are an elite Ol",gemma3:12b
+4,4,114.93705201148987,15,"
+You are an elite Ol",gemma3:12b
+5,4,134.0258948802948,15,"
+You are an elite Ol",gemma3:12b
+6,4,132.12397003173828,15,"
+You are an elite Ol",gemma3:12b
+0,7,43.7899649143219,15,"
+You are an elite Ol",llava:7b
+1,7,43.69857096672058,15,"
+You are an elite Ol",llava:7b
+2,7,64.464115858078,15,"
+You are an elite Ol",llava:7b
+3,7,39.6378071308136,15,"
+You are an elite Ol",llava:7b
+4,7,32.70465278625488,15,"
+You are an elite Ol",llava:7b
+5,6,42.30178785324097,15,"
+You are an elite Ol",llava:7b
+6,6,32.62591218948364,15,"
+You are an elite Ol",llava:7b
+0,9,55.53262996673584,15,"
+You are a discus co",qwen2.5vl:7b
+1,7,67.54260301589966,15,"
+You are a discus co",qwen2.5vl:7b
+2,2,74.66131091117859,15,"
+You are a discus co",qwen2.5vl:7b
+3,,75.95989298820496,15,"
+You are a discus co",qwen2.5vl:7b
+4,7,67.46567487716675,15,"
+You are a discus co",qwen2.5vl:7b
+5,,43.5823769569397,15,"
+You are a discus co",qwen2.5vl:7b
+6,,43.312339067459106,15,"
+You are a discus co",qwen2.5vl:7b
+0,6,77.79952001571655,15,"
+You are a discus co",gemma3:12b
+1,6,75.51871585845947,15,"
+You are a discus co",gemma3:12b
+2,5,59.92787289619446,15,"
+You are a discus co",gemma3:12b
+3,4,72.54735827445984,15,"
+You are a discus co",gemma3:12b
+4,4,67.54478120803833,15,"
+You are a discus co",gemma3:12b
+5,3,73.79541182518005,15,"
+You are a discus co",gemma3:12b
+6,3,72.23687601089478,15,"
+You are a discus co",gemma3:12b
+0,7,35.98892402648926,15,"
+You are a discus co",llava:7b
+1,7,41.37723112106323,15,"
+You are a discus co",llava:7b
+2,1,55.6762809753418,15,"
+You are a discus co",llava:7b
+3,1,42.762778997421265,15,"
+You are a discus co",llava:7b
+4,7,17.519936084747314,15,"
+You are a discus co",llava:7b
+5,4,40.29903173446655,15,"
+You are a discus co",llava:7b
+6,4,33.81871509552002,15,"
+You are a discus co",llava:7b
+0,,26.345428943634033,15,"
+You are an AI sport",qwen2.5vl:7b
+1,7,68.86600303649902,15,"
+You are an AI sport",qwen2.5vl:7b
+2,4,75.36193823814392,15,"
+You are an AI sport",qwen2.5vl:7b
+3,,72.92625308036804,15,"
+You are an AI sport",qwen2.5vl:7b
+4,7,68.5899167060852,15,"
+You are an AI sport",qwen2.5vl:7b
+5,,73.43538904190063,15,"
+You are an AI sport",qwen2.5vl:7b
+6,,41.22736310958862,15,"
+You are an AI sport",qwen2.5vl:7b
+0,6,91.01524901390076,15,"
+You are an AI sport",gemma3:12b
+1,6,76.20353293418884,15,"
+You are an AI sport",gemma3:12b
+2,,0.6147010326385498,15,"
+You are an AI sport",gemma3:12b
+3,5,60.52356791496277,15,"
+You are an AI sport",gemma3:12b
+4,5,73.78038787841797,15,"
+You are an AI sport",gemma3:12b
+5,4,68.96217608451843,15,"
+You are an AI sport",gemma3:12b
+6,4,75.31258583068848,15,"
+You are an AI sport",gemma3:12b
+0,7,41.689399003982544,15,"
+You are an AI sport",llava:7b
+1,7,35.940218925476074,15,"
+You are an AI sport",llava:7b
+2,7,41.88447403907776,15,"
+You are an AI sport",llava:7b
+3,7,61.939462184906006,15,"
+You are an AI sport",llava:7b
+4,7,38.385781049728394,15,"
+You are an AI sport",llava:7b
+5,4,17.464239835739136,15,"
+You are an AI sport",llava:7b
+6,4,40.30520415306091,15,"
+You are an AI sport",llava:7b
+0,2,46.35092282295227,15,"
+You are a brutally ",qwen2.5vl:7b
+1,7,69.4678430557251,15,"
+You are a brutally ",qwen2.5vl:7b
+2,8,75.20307183265686,15,"
+You are a brutally ",qwen2.5vl:7b
+3,10,74.90414881706238,15,"
+You are a brutally ",qwen2.5vl:7b
+4,6,69.14669728279114,15,"
+You are a brutally ",qwen2.5vl:7b
+5,8,74.48284006118774,15,"
+You are a brutally ",qwen2.5vl:7b
+6,2,42.263628005981445,15,"
+You are a brutally ",qwen2.5vl:7b
+0,7,86.78064513206482,15,"
+You are a brutally ",gemma3:12b
+1,6,83.62689423561096,15,"
+You are a brutally ",gemma3:12b
+2,4,63.30817103385925,15,"
+You are a brutally ",gemma3:12b
+3,5,49.01697492599487,15,"
+You are a brutally ",gemma3:12b
+4,4,48.49322509765625,15,"
+You are a brutally ",gemma3:12b
+5,3,48.02025485038757,15,"
+You are a brutally ",gemma3:12b
+6,3,47.60196900367737,15,"
+You are a brutally ",gemma3:12b
+0,7,15.203691005706787,15,"
+You are a brutally ",llava:7b
+1,7,15.620233058929443,15,"
+You are a brutally ",llava:7b
+2,7,16.863667964935303,15,"
+You are a brutally ",llava:7b
+3,7,15.301687002182007,15,"
+You are a brutally ",llava:7b
+4,7,15.992589235305786,15,"
+You are a brutally ",llava:7b
+5,7,15.22368597984314,15,"
+You are a brutally ",llava:7b
+6,7,15.228981971740723,15,"
+You are a brutally ",llava:7b

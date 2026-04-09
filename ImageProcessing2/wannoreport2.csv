@@ -1,0 +1,692 @@
+,score,duration,feedback,filenames,fileframes,filefps,fileseconds,frames,prompt,model
+0,9,25.21990990638733,"The thrower's technique is excellent. Her balance and posture are perfect, and her rotation mechanics are flawless. Her footwork is also excellent, and she has a great hip and shoulder separation. Her release position is perfect, and her follow-through is excellent. She is a world class athlete.",videoplayback.mp4,495,25,19.8,12,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,14.582420110702515,"The thrower demonstrates good balance and posture throughout the throw, maintaining a strong core and proper alignment. The rotation mechanics appear well-executed, with a good separation of the hips and shoulders. The footwork is solid, with a strong drive from the front foot. The release position,",videoplayback-2.mp4,681,30,22.7,12,"
+You are an elite Ol",qwen2.5vl:7b
+2,9,23.407657146453857,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><tool_call>,videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an elite Ol",qwen2.5vl:7b
+3,7,20.88470983505249,"The thrower demonstrates good balance and posture throughout the throw, maintaining a strong core and proper alignment. The rotation mechanics appear solid, with the hips and shoulders separating well. The footwork is effective, with a good drive from the front foot. The release position is strong,展",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an elite Ol",qwen2.5vl:7b
+4,8,14.604460000991821,"The thrower demonstrates good balance and posture throughout the throw. The rotation mechanics appear to be well-executed, with a strong emphasis on hip and shoulder separation. The footwork is solid, and the release position is good. The follow-through is strong, indicating a good level of skill. ",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an elite Ol",qwen2.5vl:7b
+5,7,20.84164595603943,"The thrower demonstrates good balance and posture throughout the throw, maintaining a strong core and proper alignment. The rotation mechanics appear solid, with a good separation of the hips and shoulders. The footwork is well-executed, providing a stable base for the throw. The release position is",videoplayback-6.mp4,354,30,11.8,12,"
+You are an elite Ol",qwen2.5vl:7b
+6,7,21.079352140426636,"The thrower demonstrates good balance and posture throughout the throw, maintaining a strong core and proper alignment. The rotation mechanics appear solid, with a good separation of the hips and shoulders. The footwork is well-executed, with a strong drive from the back foot. The release position,虽",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an elite Ol",qwen2.5vl:7b
+0,8,43.41091990470886,"This is a very solid throw with good power and efficiency. The athlete demonstrates excellent hip and shoulder separation, contributing to a strong rotational force. However, the follow-through could be improved by maintaining a more upright posture and extending the arm further forward to maximize ",videoplayback.mp4,495,25,19.8,12,"
+You are an elite Ol",gemma3:12b
+1,7,38.831790924072266,"This athlete demonstrates a solid foundation for a discus throw, exhibiting good posture and a powerful rotation. However, the hip and shoulder separation could be more pronounced, leading to a potentially greater power transfer. The release point appears slightly early, and the follow-through could",videoplayback-2.mp4,681,30,22.7,12,"
+You are an elite Ol",gemma3:12b
+2,7,39.05265188217163,"The athlete demonstrates a solid foundation with good posture and balance throughout the throw. However, the rotation mechanics could be improved by maximizing hip and shoulder separation, which would generate more torque. The release position appears slightly early, potentially limiting the final ",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an elite Ol",gemma3:12b
+3,7,39.02398085594177,"The athlete demonstrates a solid foundation with good balance and a controlled approach. However, the hip and shoulder separation could be more pronounced to generate greater torque. The release point appears slightly early, potentially limiting the final velocity of the discus. Focus on maximizing ",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an elite Ol",gemma3:12b
+4,9,39.3899130821228,"This is a very powerful and well-executed discus throw. The athlete demonstrates excellent hip and shoulder separation, generating significant torque for a long throw. The footwork is dynamic and contributes to the rotational momentum, and the release position is well-aligned for optimal projection.",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an elite Ol",gemma3:12b
+5,6,40.008709192276,"The athlete demonstrates a decent foundational understanding of discus throwing mechanics, but there's significant room for improvement. The rotation appears somewhat stiff, lacking the explosive hip drive and shoulder separation seen in elite throwers. Focus on increasing hip mobility and actively ",videoplayback-6.mp4,354,30,11.8,12,"
+You are an elite Ol",gemma3:12b
+6,6,39.56650185585022,"The athlete demonstrates a decent level of athleticism, but the technique lacks the efficiency and power of a more advanced thrower. The rotation appears somewhat linear, and the hip and shoulder separation could be more pronounced to generate greater torque. Focus on driving through the hips and un",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an elite Ol",gemma3:12b
+0,7,19.024747133255005,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback.mp4,495,25,19.8,12,"
+You are an elite Ol",gemma4:e4b
+1,7,14.033149719238281,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-2.mp4,681,30,22.7,12,"
+You are an elite Ol",gemma4:e4b
+2,7,13.933422088623047,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an elite Ol",gemma4:e4b
+3,7,13.802743673324585,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an elite Ol",gemma4:e4b
+4,7,13.835586071014404,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an elite Ol",gemma4:e4b
+5,7,13.832699298858643,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-6.mp4,354,30,11.8,12,"
+You are an elite Ol",gemma4:e4b
+6,7,13.803246974945068,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an elite Ol",gemma4:e4b
+0,7,18.48868203163147,"The thrower in the image demonstrates a solid foundation with balanced footwork and good hip and shoulder separation. The release position is strong, but there's room for improvement in the follow-through. To enhance performance, the athlete could work on refining the follow-through to ensure a smo,",videoplayback.mp4,495,25,19.8,12,"
+You are an elite Ol",llava:7b
+1,7,14.907374858856201,"The thrower in the image demonstrates a good level of athleticism and control over their body mechanics. The initial stance appears balanced with a slight forward lean, which is common for discus throws to generate power. The footwork leading up to the release shows a smooth transition from the back",videoplayback-2.mp4,681,30,22.7,12,"
+You are an elite Ol",llava:7b
+2,7,15.01866102218628,"The thrower in the image demonstrates a good balance and posture throughout the discus throw. The initial stance is stable with a slight bend at the knees, which helps to generate power for the throw. The rotation mechanics appear to be smooth and controlled, indicating a strong core and upper body.",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an elite Ol",llava:7b
+3,7,14.881841897964478,"The thrower in the image demonstrates a good balance and posture throughout the entire sequence, maintaining a strong core and stable base. The footwork appears to be well-coordinated with the rotation mechanics, leading to a smooth and efficient throwing motion. The hip and shoulder separation are ",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an elite Ol",llava:7b
+4,7,15.026968240737915,"The thrower in the image appears to demonstrate a solid discus throwing technique with good balance and posture throughout the entire sequence. The footwork is consistent and well-coordinated, leading up to a strong hip and shoulder separation during the release phase. The follow-through is smooth, ",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an elite Ol",llava:7b
+5,6,15.0433030128479,"The thrower's technique appears to be a mix of both good and bad elements. The initial balance and posture seem solid with the feet positioned well apart, which is good for stability. However, there are some issues with the hip and shoulder separation that could affect the rotation mechanics. The th",videoplayback-6.mp4,354,30,11.8,12,"
+You are an elite Ol",llava:7b
+6,6,15.46889615058899,"The thrower in the image appears to be demonstrating a discus throwing technique that could benefit from some refinements. Here are my observations: 
+
+1. Balance and posture: The thrower's balance is slightly off-center, with the front foot not fully planted on the ground during the initial phase of",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an elite Ol",llava:7b
+0,8,25.3224036693573,The athlete should have thrown the discus earlier in the circle. The athlete should have thrown the discus earlier in the circle. The athlete should have thrown the discus earlier in the circle. The athlete should have thrown the discus earlier in the circle. The athlete should have thrown the discu,videoplayback.mp4,495,25,19.8,12,"
+You are a discus co",qwen2.5vl:7b
+1,7,13.898908853530884,"The thrower's follow-through is not fully extended, which could be improved by ensuring the arm is fully extended after releasing the discus. This would help in achieving a more powerful and accurate throw.",videoplayback-2.mp4,681,30,22.7,12,"
+You are a discus co",qwen2.5vl:7b
+2,8,23.786540031433105,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>FilterWhere,videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a discus co",qwen2.5vl:7b
+3,6,20.477575063705444,"The thrower's follow-through is incomplete, which reduces the overall power and distance of the throw. The lack of extension in the throwing arm and the failure to maintain a strong core rotation are key issues.",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a discus co",qwen2.5vl:7b
+4,7,14.2504141330719,"The thrower's follow-through is not fully extended, which could be improved by ensuring the discus is fully released and the body is fully rotated for maximum distance.",videoplayback-5.mp4,1065,30,35.5,12,"
+You are a discus co",qwen2.5vl:7b
+5,6,20.536280155181885,"The thrower's follow-through is incomplete, which reduces the overall power and distance of the throw. The lack of extension in the arm and leg after releasing the discus is a significant flaw.",videoplayback-6.mp4,354,30,11.8,12,"
+You are a discus co",qwen2.5vl:7b
+6,6,20.900954008102417,"The thrower's back foot is not planted firmly, which can lead to a lack of stability and power in the throw. This can be improved by ensuring the back foot is planted firmly and the body is rotated properly during the throw.",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a discus co",qwen2.5vl:7b
+0,6,41.8688178062439,"The athlete's lead leg is collapsing during the rotation, significantly reducing power transfer. Stabilizing the lead leg throughout the rotation would improve the throw's distance and efficiency.",videoplayback.mp4,495,25,19.8,12,"
+You are a discus co",gemma3:12b
+1,6,38.6751549243927,The athlete's weight distribution is consistently too far forward. This limits power generation and rotational force. Shift the weight back over the rear foot during the wind-up to create a stronger base and more efficient rotation.,videoplayback-2.mp4,681,30,22.7,12,"
+You are a discus co",gemma3:12b
+2,5,38.157546043395996,"The athlete's weight transfer is significantly delayed and insufficient. The hips remain relatively static throughout the wind-up, hindering power generation. Focus on initiating the throw with a strong, early hip rotation to drive the discus forward.",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a discus co",gemma3:12b
+3,5,38.95160794258118,The athlete's weight transfer is significantly delayed. Initiate the rotation earlier by driving the lead leg forward and down during the wind-up.,videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a discus co",gemma3:12b
+4,5,37.40145516395569,The athlete's weight distribution is consistently too far forward. This limits power generation and rotational speed. Shift the weight back towards the rear foot during the wind-up and rotation.,videoplayback-5.mp4,1065,30,35.5,12,"
+You are a discus co",gemma3:12b
+5,4,37.47435808181763,"The athlete's weight transfer is severely lacking. The hips remain too stable throughout the rotation, limiting power and efficiency. Focus on initiating the throw with a strong hip drive forward and into the throw.",videoplayback-6.mp4,354,30,11.8,12,"
+You are a discus co",gemma3:12b
+6,4,37.38923406600952,"The athlete's weight transfer is severely lacking. The hips remain too stable throughout the rotation, limiting power generation. Focus on initiating the throw with a strong hip drive forward and into the throw.",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a discus co",gemma3:12b
+0,6,17.780110120773315,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback.mp4,495,25,19.8,12,"
+You are a discus co",gemma4:e4b
+1,6,13.231091022491455,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-2.mp4,681,30,22.7,12,"
+You are a discus co",gemma4:e4b
+2,6,13.26808500289917,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a discus co",gemma4:e4b
+3,6,13.247427940368652,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a discus co",gemma4:e4b
+4,6,13.190672874450684,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-5.mp4,1065,30,35.5,12,"
+You are a discus co",gemma4:e4b
+5,6,13.21162486076355,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-6.mp4,354,30,11.8,12,"
+You are a discus co",gemma4:e4b
+6,6,13.296267032623291,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a discus co",gemma4:e4b
+0,6,17.292778968811035,"The biggest mistake in this sequence is the lack of proper follow-through on the throw. The discus thrower's arm should continue to move forward and down after releasing the discus, which would help generate more power and accuracy.",videoplayback.mp4,495,25,19.8,12,"
+You are a discus co",llava:7b
+1,7,14.615039110183716,"The athlete's right leg is lifted off the ground during the throw, which could affect balance and stability. To improve the throw, maintaining a stable base with both feet on the ground would be beneficial for better control and accuracy.",videoplayback-2.mp4,681,30,22.7,12,"
+You are a discus co",llava:7b
+2,1,15.001143217086792,"The image shows a person practicing disc golf, but there is an issue with their throwing technique. The biggest flaw in this throw would be the angle of the arm and wrist. The player's arm should be fully extended and the wrist should be straight for maximum accuracy and distance. In this case, the ",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a discus co",llava:7b
+3,4,15.00477385520935,"The biggest flaw in this sequence is the lack of proper follow-through after the release of the discus. The thrower's arm should continue to move forward and downward after releasing the discus for maximum distance and accuracy. This would improve the throw by increasing the angle of release, which,",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a discus co",llava:7b
+4,7,15.163216829299927,"The image shows a sequence of images with an athlete throwing a discus. To identify the biggest flaw in the throw, we need to consider factors such as body positioning, grip on the discus, release angle, and follow-through. From what I can see, the athlete's body is not fully extended at the time of",videoplayback-5.mp4,1065,30,35.5,12,"
+You are a discus co",llava:7b
+5,4,14.920984029769897,"The biggest flaw in the throw is the lack of proper follow-through. The discus player's arm should continue to move forward after releasing the discus, following through with a smooth and controlled motion to ensure maximum distance and accuracy. This would improve the throw by increasing the spin, ",videoplayback-6.mp4,354,30,11.8,12,"
+You are a discus co",llava:7b
+6,4,14.934314966201782,"The thrower's body position is slightly off-center, which could affect balance and accuracy. To improve the throw, the athlete should focus on maintaining a more centered stance with feet shoulder-width apart and knees slightly bent to generate power from the legs while keeping the upper body stable",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a discus co",llava:7b
+0,9,24.398847103118896,"The athlete performed a technically good throw with minor issues. She maintained good balance and timing throughout the throw. However, her release could be improved. The weakest phase of the throw was the release.",videoplayback.mp4,495,25,19.8,12,"
+You are an AI sport",qwen2.5vl:7b
+1,7,14.40254807472229,"The athlete demonstrates a technically good throw with minor issues. She maintains a strong stance and proper body rotation throughout the throw, which is evident in the consistent posture and alignment. However, there is room for improvement in the release phase, where the discus could have been a ",videoplayback-2.mp4,681,30,22.7,12,"
+You are an AI sport",qwen2.5vl:7b
+2,8,23.153285026550293,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>โปรแ硌尬窸贴吧窸㍍,videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an AI sport",qwen2.5vl:7b
+3,7,20.756024837493896,"The athlete demonstrates a technically sound throw with a strong emphasis on balance and rotation. The thrower maintains a stable stance throughout the delivery, ensuring a consistent spin. The release appears to be well-timed, with the discus leaving the hand at the optimal moment. However, there's",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an AI sport",qwen2.5vl:7b
+4,7,14.532515048980713,"The athlete demonstrates a technically good throw with minor issues. The athlete's form is consistent throughout the throw, and the release appears to be well-timed. However, there is a slight imbalance in the final phase of the throw, which could be improved for better consistency. The athlete's gá",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an AI sport",qwen2.5vl:7b
+5,7,20.695220947265625,"The athlete demonstrates a technically good throw with minor issues. The athlete's form is consistent throughout the throw, maintaining good balance and control. The release appears to be smooth, and the athlete's body rotation is well-executed. However, there is a slight imbalance in the final pose",videoplayback-6.mp4,354,30,11.8,12,"
+You are an AI sport",qwen2.5vl:7b
+6,7,20.796215057373047,"The athlete demonstrates a good technique in the approach and rotation phases. The thrower maintains a strong and balanced stance throughout the rotation, which is evident in the posture and alignment. However, there is room for improvement in the release phase, where the thrower could work on the '",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an AI sport",qwen2.5vl:7b
+0,6,41.753247022628784,"This is a decent throw with some noticeable flaws. The athlete demonstrates good power generation and a strong rotational drive, which is evident in the body positioning throughout the throw. However, the arm action appears somewhat stiff and lacks fluidity, which could be limiting the full range of",videoplayback.mp4,495,25,19.8,12,"
+You are an AI sport",gemma3:12b
+1,6,38.369004011154175,"This is a decent throw with some noticeable flaws. The athlete demonstrates good power generation and rotation through the core, which is a positive aspect of their technique. However, the stance and weight transfer appear somewhat inconsistent across the frames. The athlete seems to be leaning too-",videoplayback-2.mp4,681,30,22.7,12,"
+You are an AI sport",gemma3:12b
+2,5,38.29216504096985,"This is a decent throw with some noticeable flaws. The athlete demonstrates good posture and a strong core throughout the sequence, which is a positive sign for power generation. However, the rotation appears somewhat restricted, and the final release looks a bit rushed and lacks optimal extension. ",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an AI sport",gemma3:12b
+3,6,38.58559989929199,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotation through the torso, which is a key element for generating power in the discus. However, the stance and footwork appear somewhat unstable, particularly during the wind-up and transfer phase. The athlete's weight-",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an AI sport",gemma3:12b
+4,6,38.376299142837524,"This is a decent throw with some noticeable flaws. The athlete demonstrates good power generation and rotation through the core, which is crucial for maximizing distance. The body positioning looks stable throughout the throw. However, the athlete's footwork and weight transfer could be improved. It",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an AI sport",gemma3:12b
+5,5,38.385499000549316,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotation through the torso, which is a positive aspect of their technique. However, the stance and weight transfer appear somewhat inconsistent, leading to a lack of power and control. The weakest phase of the throw is,",videoplayback-6.mp4,354,30,11.8,12,"
+You are an AI sport",gemma3:12b
+6,5,38.41026282310486,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotation through the torso, which is a positive aspect of their technique. However, the lower body seems somewhat disconnected from the upper body, particularly during the release phase. The athlete's weight transfer is",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an AI sport",gemma3:12b
+0,7,17.904632806777954,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback.mp4,495,25,19.8,12,"
+You are an AI sport",gemma4:e4b
+1,7,13.650268793106079,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-2.mp4,681,30,22.7,12,"
+You are an AI sport",gemma4:e4b
+2,7,13.486593246459961,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an AI sport",gemma4:e4b
+3,7,13.428743124008179,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an AI sport",gemma4:e4b
+4,7,13.465569019317627,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an AI sport",gemma4:e4b
+5,7,13.458615064620972,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-6.mp4,354,30,11.8,12,"
+You are an AI sport",gemma4:e4b
+6,7,13.466437101364136,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an AI sport",gemma4:e4b
+0,7,17.36298394203186,"The athlete demonstrated a strong and consistent release with good body positioning throughout the throw. The initial wind-up is smooth and balanced, which is crucial for generating power in the throw. However, there appears to be a slight issue with the follow-through, where the arm does not fully ",videoplayback.mp4,495,25,19.8,12,"
+You are an AI sport",llava:7b
+1,7,14.805214881896973,"The athlete demonstrates a strong and balanced stance with good body positioning. The release point is consistent throughout the frames, indicating a controlled and coordinated movement. However, there are some minor issues with the follow-through that could be improved for a more polished throw. In",videoplayback-2.mp4,681,30,22.7,12,"
+You are an AI sport",llava:7b
+2,7,15.070735692977905,One thing the athlete did well: The athlete has a good stance and appears to have a strong grip on the disc. They are also maintaining balance throughout the throw.,videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are an AI sport",llava:7b
+3,7,14.90447998046875,"The athlete demonstrates a strong and consistent throwing motion with good balance throughout the frames. The release point is well-executed, indicating a controlled and powerful throw. However, there is room for improvement in the follow-through phase, which could be smoother to enhance accuracy. A",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are an AI sport",llava:7b
+4,7,14.905581951141357,"The athlete demonstrates a strong and consistent throwing motion with good body positioning throughout the frames. The release point is well-executed, and the follow-through is smooth. One area for improvement could be the initial phase of the throw where the arm angle appears to be slightly behind,",videoplayback-5.mp4,1065,30,35.5,12,"
+You are an AI sport",llava:7b
+5,4,14.944410800933838,"The athlete demonstrates a good initial stance and grip on the discus. The release point is consistent across frames, indicating a controlled and focused throw. However, there are some noticeable flaws in the follow-through phase of the throw. The arm motion could be smoother and more fluid to optim",videoplayback-6.mp4,354,30,11.8,12,"
+You are an AI sport",llava:7b
+6,4,15.066020965576172,"The athlete appears to be in a good starting position with a balanced stance and grip on the discus. The initial wind-up is smooth, and the release seems controlled. However, there are some noticeable flaws that could impact the throw's accuracy and distance. One area of improvement would be to work",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are an AI sport",llava:7b
+0,8,25.436110019683838,"Great start, but you need to work on your balance. Your hips are leading the shoulders, but you need to make sure you're not overdoing it. The throwing arm lags correctly, but you need to work on your release. Try to keep your eyes on the discus and release it high and powerful.",videoplayback.mp4,495,25,19.8,12,"
+You are a brutally ",qwen2.5vl:7b
+1,7,13.628944158554077,Great start with the hips leading the shoulders. Keep the throwing arm lagging correctly. Release appears high and powerful. Focus on maintaining balance throughout the throw.,videoplayback-2.mp4,681,30,22.7,12,"
+You are a brutally ",qwen2.5vl:7b
+2,8,23.28813886642456,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>输卵到最后输卵到最后耤,videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a brutally ",qwen2.5vl:7b
+3,7,20.299375295639038,"Great start with the lead leg and hip movement. Keep the shoulders in line with the hips for better balance. The throwing arm lags well, but focus on keeping the release high and powerful. Good job on the overall form!",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a brutally ",qwen2.5vl:7b
+4,7,13.92582392692566,"Great start, but focus on keeping your hips and shoulders aligned. The throwing arm lags well, but try to release the discus higher for more power. Keep working on your balance and follow through.",videoplayback-5.mp4,1065,30,35.5,12,"
+You are a brutally ",qwen2.5vl:7b
+5,7,19.93813395500183,"Great start with the hips leading, but the throwing arm could be more compact before release. Focus on keeping the body aligned and the release should be high and powerful.",videoplayback-6.mp4,354,30,11.8,12,"
+You are a brutally ",qwen2.5vl:7b
+6,6,20.090049982070923,"Good start, but focus on keeping your hips and shoulders aligned. The throwing arm lags well, but try to release the discus higher for more power. Keep your balance and stay centered.",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a brutally ",qwen2.5vl:7b
+0,7,43.13942289352417,"Okay, let's break this down. You're showing some good power, but there's a lot of wasted energy. 7/10. 1. **Balance:** You're wobbling a bit on the plant foot. Drive through that leg, don't let it collapse. 2. **Hip Lead:** Your hips are *trying* to lead, but they're not committing. You're pulling a",videoplayback.mp4,495,25,19.8,12,"
+You are a brutally ",gemma3:12b
+1,6,39.6660680770874,"Okay, let's break this down. You're showing some potential, but there's a lot of room for improvement. 6/10. 1. **Balance:** You're wobbling a bit too much. Drive through the ground, plant your feet. 2. **Hip Lead:** Your hips are reacting, but they're not *leading*. They need to initiate the motion",videoplayback-2.mp4,681,30,22.7,12,"
+You are a brutally ",gemma3:12b
+2,5,39.219249963760376,"Alright, let's break this down. You're getting into the ring, but your balance is shaky. You're leaning forward too much. Hips need to *drive* the shoulders, not chase them. See how your arm is lagging? It's reacting, not initiating. You're not getting any power from your core. Release point is okay",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a brutally ",gemma3:12b
+3,5,39.30534386634827,"Okay, let's be honest. That's... not great. You're fighting balance the whole time. Hips are late, arm's hanging back. You're not generating power, you're just flailing. Drive those hips forward *first*. Arm follows. Release point is too low. Get that elbow up. We need to rebuild this from the start",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a brutally ",gemma3:12b
+4,6,39.89961290359497,"Okay, let's break this down. You're showing some potential, but there's a lot of wasted energy here. 6/10. 
+
+**First, your balance is shaky.** You're leaning too far forward in the early stages. Drive through your legs, not your chest. 
+
+**Hips need to lead.** You're letting your shoulders dictate, ",videoplayback-5.mp4,1065,30,35.5,12,"
+You are a brutally ",gemma3:12b
+5,4,39.018232107162476,"Okay, let's be honest. That's not a great sequence. You're losing balance every time. Your hips aren't driving the throw, your arm is lagging way behind. You're basically just pushing the disc. You need to focus on driving with your legs and hips first, then letting your arm follow. Release point is",videoplayback-6.mp4,354,30,11.8,12,"
+You are a brutally ",gemma3:12b
+6,4,39.322006940841675,"Okay, let's be honest. That's not a throw. You're falling forward, not rotating. Your hips are late, your arm is dragging. You're basically just chucking it. You need to drive through your hips *first*. Feel the rotation. Arm follows. Release point is too low. You're losing a ton of power. Start by ",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a brutally ",gemma3:12b
+0,6,15.381454229354858,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback.mp4,495,25,19.8,12,"
+You are a brutally ",gemma4:e4b
+1,6,10.841790914535522,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-2.mp4,681,30,22.7,12,"
+You are a brutally ",gemma4:e4b
+2,6,10.893357992172241,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a brutally ",gemma4:e4b
+3,6,10.864497184753418,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a brutally ",gemma4:e4b
+4,6,10.874894142150879,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-5.mp4,1065,30,35.5,12,"
+You are a brutally ",gemma4:e4b
+5,6,10.875754356384277,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-6.mp4,354,30,11.8,12,"
+You are a brutally ",gemma4:e4b
+6,6,10.871172189712524,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a brutally ",gemma4:e4b
+0,7,17.521904706954956,"Alright, you've got a good base here, but there are some areas for improvement. Your hips are slightly off-balance, which could affect your throw. You need to work on maintaining a more stable lower body position and keeping your weight centered over the foot. The arm lag is minimal, but it looks a ",videoplayback.mp4,495,25,19.8,12,"
+You are a brutally ",llava:7b
+1,7,15.263873100280762,"Hey there! You've got a solid base with your feet shoulder-width apart, which is great for stability. Your hips are slightly leading the shoulders, but that's not ideal for a throw like this. It looks like you're trying to generate power from your legs, which is good, but you might want to work on a",videoplayback-2.mp4,681,30,22.7,12,"
+You are a brutally ",llava:7b
+2,7,15.203289985656738,"Hey there! You've got a strong foundation with your feet shoulder-width apart, which is great for balance. Your hips are slightly open, but you could work on keeping them more stable and aligned with the target. The release point looks good, but make sure to keep your arm fully extended and follow-t",videoplayback-3.mp4,500,30,16.666666666666668,12,"
+You are a brutally ",llava:7b
+3,7,15.198643207550049,"Alright, you've got a good base with your feet shoulder-width apart, which is great for balance. Your hips are slightly closed, but that could be due to the follow-through of the throw. The arm lag is minimal, and the release appears to be high and powerful. However, you might want to work on your k",videoplayback-4.mp4,179,30,5.966666666666667,12,"
+You are a brutally ",llava:7b
+4,7,15.182516098022461,"Hey there, Jamaica! You've got a solid foundation with your feet placement, but you could work on maintaining a more balanced stance throughout the throw. Your hips are slightly behind the shoulders, which is good for generating power, but make sure to keep them aligned with the target. The arm lag,",videoplayback-5.mp4,1065,30,35.5,12,"
+You are a brutally ",llava:7b
+5,5,15.140512943267822,"Alright, you've got a good start here. Your hips are leading the shoulders, which is great for generating power in your throw. However, it looks like your arm lag is a bit behind the hips, which could be causing some inconsistency in your release. To improve this, try to initiate your arm movement a",videoplayback-6.mp4,354,30,11.8,12,"
+You are a brutally ",llava:7b
+6,7,15.266071081161499,"Hey there! You've got a good start here, but let's focus on a few key areas for improvement. Firstly, your balance is a bit off; you need to keep your weight more centered over the throwing arm and maintain a stable base. Your hips should be leading the shoulders, not trailing behind. Secondly, your",videoplayback-7.mp4,617,29,21.275862068965516,12,"
+You are a brutally ",llava:7b
+0,,26.49506711959839,,videoplayback.mp4,495,25,19.8,15,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,19.857619762420654,"The thrower demonstrates good balance and posture throughout the throw, maintaining a strong core and proper alignment. The rotation mechanics appear well-executed, with a good separation of the hips and shoulders. The footwork is solid, with a strong drive from the front foot. The release position,",videoplayback-2.mp4,681,30,22.7,15,"
+You are an elite Ol",qwen2.5vl:7b
+2,9,23.37588095664978,"'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>
+```GuidId0",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an elite Ol",qwen2.5vl:7b
+3,,22.465319871902466,,videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an elite Ol",qwen2.5vl:7b
+4,8,19.673948049545288,"The thrower demonstrates good balance and posture throughout the throw. The rotation mechanics appear to be well-executed, with a strong emphasis on hip and shoulder separation. The footwork is solid, and the release position is good. The follow-through is strong, indicating a good level of skill. ",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an elite Ol",qwen2.5vl:7b
+5,,22.587575674057007,,videoplayback-6.mp4,354,30,11.8,15,"
+You are an elite Ol",qwen2.5vl:7b
+6,,24.534990787506104,,videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an elite Ol",qwen2.5vl:7b
+0,7,50.65268898010254,"This is a solid performance, demonstrating good fundamentals but with room for refinement to maximize power and efficiency. The athlete maintains good balance throughout the throw, and the hip and shoulder separation is well-timed, contributing to a strong rotational force. However, the release is a",videoplayback.mp4,495,25,19.8,15,"
+You are an elite Ol",gemma3:12b
+1,8,47.306118965148926,"This athlete demonstrates a very solid technique with good power generation and body control. The hip and shoulder separation is excellent, and the footwork is driving powerfully into the throw. A minor adjustment could be made to ensure a slightly more upright posture throughout the rotation to aid",videoplayback-2.mp4,681,30,22.7,15,"
+You are an elite Ol",gemma3:12b
+2,7,47.64464998245239,"The athlete demonstrates a solid foundation with good posture and balance throughout the throw. However, the rotation mechanics could be improved by maximizing hip and shoulder separation, which appears slightly restricted. A focus on driving the hips forward more aggressively during the rotation, a",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an elite Ol",gemma3:12b
+3,7,47.76516509056091,"This athlete demonstrates a solid foundation for a discus throw, showing good balance and a controlled approach. However, the hip and shoulder separation could be more pronounced, leading to a potentially more powerful rotation. The release point appears slightly early, and the follow-through could'",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an elite Ol",gemma3:12b
+4,9,47.31576704978943,"This is a very powerful and well-executed throw. The athlete demonstrates excellent hip and shoulder separation, generating significant torque. The footwork is dynamic and contributes to the momentum build-up. A minor adjustment could be made to ensure a slightly more upright posture throughout the ",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an elite Ol",gemma3:12b
+5,6,47.31649827957153,"The athlete demonstrates a decent foundation but lacks the power and efficiency of a more advanced thrower. The rotation is somewhat restricted, and the hip and shoulder separation could be more pronounced to generate greater torque. Focus on improving the lower body drive and achieving a more fluid",videoplayback-6.mp4,354,30,11.8,15,"
+You are an elite Ol",gemma3:12b
+6,6,47.32017207145691,"The athlete demonstrates a decent level of coordination but lacks the power and efficiency of a more advanced thrower. The rotation appears somewhat restricted, and the hip and shoulder separation could be more pronounced to generate greater torque. Focus on improving the lower body drive and torso-",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an elite Ol",gemma3:12b
+0,7,18.466012954711914,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback.mp4,495,25,19.8,15,"
+You are an elite Ol",gemma4:e4b
+1,7,13.673502922058105,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-2.mp4,681,30,22.7,15,"
+You are an elite Ol",gemma4:e4b
+2,7,13.738682985305786,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an elite Ol",gemma4:e4b
+3,7,13.747361660003662,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an elite Ol",gemma4:e4b
+4,7,13.72711992263794,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an elite Ol",gemma4:e4b
+5,7,13.710760116577148,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-6.mp4,354,30,11.8,15,"
+You are an elite Ol",gemma4:e4b
+6,7,13.703737735748291,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an elite Ol",gemma4:e4b
+0,7,17.86475419998169,"The thrower in the image demonstrates a solid foundation with balanced footwork and good hip positioning. The rotation mechanics appear to be well executed, with a smooth transition from the backswing to the release phase. However, there is room for improvement in the follow-through, which could be ",videoplayback.mp4,495,25,19.8,15,"
+You are an elite Ol",llava:7b
+1,7,15.2191801071167,"The thrower in the image demonstrates a good level of athleticism and control over their body mechanics. The initial stance appears balanced with a slight forward lean, which is common for discus throws to generate power. The footwork leading up to the release shows a smooth transition from the back",videoplayback-2.mp4,681,30,22.7,15,"
+You are an elite Ol",llava:7b
+2,7,15.327350854873657,"The thrower in the image demonstrates a good balance and posture throughout the discus throw. The initial stance is stable with a slight bend at the knees, which helps to generate power for the throw. The rotation mechanics appear to be smooth and controlled, indicating a strong core and upper body.",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an elite Ol",llava:7b
+3,7,15.308633089065552,"The thrower in the image demonstrates a good balance and posture throughout the discus throw, with a strong hip and shoulder separation that suggests a powerful rotation. The release position is slightly off-center, which could affect the accuracy of the throw. The follow-through appears to be well-",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an elite Ol",llava:7b
+4,7,15.262617111206055,"The thrower in the image appears to demonstrate a solid discus throwing technique with good balance and posture throughout the entire sequence. The footwork is consistent and well-coordinated, leading up to a strong hip and shoulder separation during the release phase. The follow-through is smooth, ",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an elite Ol",llava:7b
+5,6,15.39071798324585,"The thrower's technique appears to be a mix of both good and bad elements. The balance and posture are quite good, with the athlete maintaining a stable base and a strong core throughout the throw. However, there is room for improvement in footwork, as the back foot seems to be lifted off the ground",videoplayback-6.mp4,354,30,11.8,15,"
+You are an elite Ol",llava:7b
+6,6,15.29797887802124,"The thrower in the image demonstrates a good starting position with a balanced stance and proper grip on the discus. The initial rotation mechanics appear to be well executed, with the hips and shoulders rotating together smoothly. However, there is room for improvement in footwork, as the back foot",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an elite Ol",llava:7b
+0,2,26.4202299118042,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|> iParamโปรแ,videoplayback.mp4,495,25,19.8,15,"
+You are a discus co",qwen2.5vl:7b
+1,7,16.849255800247192,"The thrower's follow-through is not fully extended, which could be improved by ensuring the discus is fully released and the body is fully rotated for maximum distance.",videoplayback-2.mp4,681,30,22.7,15,"
+You are a discus co",qwen2.5vl:7b
+2,8,23.018606185913086,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>FilterWhere,videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a discus co",qwen2.5vl:7b
+3,10,23.157925128936768,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>会让你到最后会让你赘２,videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a discus co",qwen2.5vl:7b
+4,7,17.061804056167603,"The thrower's body rotation is not fully completed, which affects the overall power and distance of the throw. The thrower should focus on fully rotating the body to maximize the force behind the throw.",videoplayback-5.mp4,1065,30,35.5,15,"
+You are a discus co",qwen2.5vl:7b
+5,8,22.990108013153076,-<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>会让你到最后会让你得天,videoplayback-6.mp4,354,30,11.8,15,"
+You are a discus co",qwen2.5vl:7b
+6,8,23.272702932357788,"'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>会让你到最后会让你
+1",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a discus co",qwen2.5vl:7b
+0,6,49.74299907684326,The athlete's weight shift is too far forward during the turn. This causes a loss of power and stability. Focus on driving the weight back and under during the turn to generate more force and maintain balance.,videoplayback.mp4,495,25,19.8,15,"
+You are a discus co",gemma3:12b
+1,6,45.61827611923218,The athlete's weight distribution is consistently too far forward. Shifting weight back during the wind-up would improve power and stability.,videoplayback-2.mp4,681,30,22.7,15,"
+You are a discus co",gemma3:12b
+2,5,46.31741499900818,"The athlete's weight transfer is significantly delayed. The hips remain relatively stable throughout the wind-up, hindering power generation. Focus on initiating hip rotation earlier in the sequence to drive the throw forward.",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a discus co",gemma3:12b
+3,5,46.30329489707947,"The athlete's weight transfer is significantly delayed and unbalanced. The lead leg remains planted too long, inhibiting rotation and power generation. Focus on initiating the weight shift earlier and more aggressively towards the throwing side.",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a discus co",gemma3:12b
+4,5,46.31225872039795,The athlete's weight distribution is consistently too far forward. This limits power generation and rotational speed. Shift the weight back over the rear foot during the wind-up to create a stronger base and more efficient rotation.,videoplayback-5.mp4,1065,30,35.5,15,"
+You are a discus co",gemma3:12b
+5,4,46.346283197402954,"The athlete's weight transfer is severely lacking. The hips remain too stable throughout the throw, preventing effective rotation and power generation. Focus on initiating the throw with a strong hip drive forward and into the circle.",videoplayback-6.mp4,354,30,11.8,15,"
+You are a discus co",gemma3:12b
+6,4,46.156691789627075,"The athlete's weight transfer is severely delayed. The hips remain too stable throughout the rotation, limiting power generation. Focus on initiating hip rotation earlier in the throw to drive the movement forward.",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a discus co",gemma3:12b
+0,6,17.383726119995117,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback.mp4,495,25,19.8,15,"
+You are a discus co",gemma4:e4b
+1,6,13.155037879943848,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-2.mp4,681,30,22.7,15,"
+You are a discus co",gemma4:e4b
+2,6,13.186996936798096,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a discus co",gemma4:e4b
+3,6,13.131891965866089,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a discus co",gemma4:e4b
+4,6,13.15887188911438,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-5.mp4,1065,30,35.5,15,"
+You are a discus co",gemma4:e4b
+5,6,13.189450979232788,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-6.mp4,354,30,11.8,15,"
+You are a discus co",gemma4:e4b
+6,6,13.166367053985596,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a discus co",gemma4:e4b
+0,7,17.910120248794556,"The biggest flaw in the sequence is the inconsistency of the release point for the discus. The athlete's release point should be consistent with the direction they want to throw the discus. In the first image, the release point is too low and not aligned with the intended trajectory. To improve the ",videoplayback.mp4,495,25,19.8,15,"
+You are a discus co",llava:7b
+1,7,15.175032138824463,"The athlete's body positioning is off-balance, which could affect the accuracy of the throw. To improve the throw, the athlete should focus on maintaining a more stable and balanced stance with proper weight transfer from back foot to front foot during the throwing motion.",videoplayback-2.mp4,681,30,22.7,15,"
+You are a discus co",llava:7b
+2,1,15.305421829223633,"The thrower's body position is slightly off-center, which could affect the accuracy of the throw. To improve the throw, the thrower should focus on maintaining a more balanced stance with their feet shoulder-width apart and their throwing arm fully extended to increase power and precision.",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a discus co",llava:7b
+3,4,15.41039776802063,"The biggest flaw in this sequence is the lack of proper follow-through after the release of the discus. The thrower's arm should continue to move forward and downward after releasing the discus for maximum distance and accuracy. This would improve the throw by increasing the spin on the discus, thus",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a discus co",llava:7b
+4,7,15.50944209098816,"The image shows a sequence of images with an athlete throwing a discus. To identify the biggest flaw in the throw, we need to consider factors such as body positioning, grip on the discus, release angle, and follow-through. From what I can see, the athlete's body is not fully extended at the time of",videoplayback-5.mp4,1065,30,35.5,15,"
+You are a discus co",llava:7b
+5,4,15.329301834106445,"The thrower's body position is off-center, which could affect balance and accuracy. To improve the throw, the player should focus on maintaining a more balanced stance with feet shoulder-width apart and slightly bent knees, keeping the throwing arm straight and relaxed until the release point, and a",videoplayback-6.mp4,354,30,11.8,15,"
+You are a discus co",llava:7b
+6,4,15.348689794540405,"The biggest flaw in the throw is the lack of proper follow-through. The athlete's arm should continue to move forward after releasing the discus, with a smooth and controlled motion, rather than stopping abruptly as it does here. This would likely result in a more accurate and powerful throw.",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a discus co",llava:7b
+0,,26.46327304840088,,videoplayback.mp4,495,25,19.8,15,"
+You are an AI sport",qwen2.5vl:7b
+1,7,19.80536699295044,"The athlete demonstrates a technically good throw with minor issues. She maintains good balance and timing throughout the throw, with a strong release. However, there is a slight imbalance in the final phase, where her body leans forward slightly. The athlete could improve her posture in the final, ",videoplayback-2.mp4,681,30,22.7,15,"
+You are an AI sport",qwen2.5vl:7b
+2,8,23.421694040298462,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>โปรแ硌尬窸贴吧窸㍍,videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an AI sport",qwen2.5vl:7b
+3,,22.26820707321167,,videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an AI sport",qwen2.5vl:7b
+4,7,19.94200086593628,"The athlete demonstrates a technically good throw with minor issues. The athlete's form is consistent throughout the throw, and the release appears to be well-timed. However, there is a slight imbalance in the final stance, which could be improved for better balance and stability. The athlete's body",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an AI sport",qwen2.5vl:7b
+5,,22.231130123138428,,videoplayback-6.mp4,354,30,11.8,15,"
+You are an AI sport",qwen2.5vl:7b
+6,,24.235260248184204,,videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an AI sport",qwen2.5vl:7b
+0,6,51.638710021972656,"Sandra Perković's discus throw demonstrates a generally solid technique, but with room for improvement. 6/10. 👏 She maintains a good posture and balance throughout the wind-up and rotation, which is crucial for generating power. 💪 However, her release point seems slightly early, which might be a bit",videoplayback.mp4,495,25,19.8,15,"
+You are an AI sport",gemma3:12b
+1,6,47.512561082839966,"This is a decent throw with some noticeable flaws. The athlete demonstrates good power generation and a strong core engagement throughout the sequence, which is a positive sign. The rotation and transfer of weight from the back leg to the front leg appear coordinated, contributing to the overall imp",videoplayback-2.mp4,681,30,22.7,15,"
+You are an AI sport",gemma3:12b
+2,5,47.86430287361145,"This is a decent throw with some noticeable flaws. The athlete demonstrates good posture and a strong core throughout the sequence, which is a positive sign for power generation. However, the rotation appears somewhat restricted, and the final release looks a bit rushed and lacks optimal extension. ",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an AI sport",gemma3:12b
+3,6,47.353177070617676,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotation through the torso, which is crucial for generating power in the discus. However, the stance and balance appear somewhat unstable, particularly during the wind-up and delivery phases. The athlete's knee bend is,",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an AI sport",gemma3:12b
+4,6,47.23134207725525,"This is a decent throw with some noticeable flaws. The athlete demonstrates good power generation and rotation through the core, which is a positive aspect of their technique. However, the footwork and balance during the approach and turn could be improved. The athlete appears to be slightly off-kil",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an AI sport",gemma3:12b
+5,5,47.277796268463135,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotational power and a strong core engagement throughout the throw, which is a positive aspect. However, the stance and balance during the release phase appear somewhat unstable, leading to a less efficient transfer of ",videoplayback-6.mp4,354,30,11.8,15,"
+You are an AI sport",gemma3:12b
+6,5,47.52716016769409,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotation through the torso, which is a positive aspect of their technique. However, the lower body seems to be lagging behind the upper body, leading to a lack of power transfer. The weakest phase appears to be the 'run",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an AI sport",gemma3:12b
+0,7,17.894798755645752,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback.mp4,495,25,19.8,15,"
+You are an AI sport",gemma4:e4b
+1,7,13.544303894042969,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-2.mp4,681,30,22.7,15,"
+You are an AI sport",gemma4:e4b
+2,7,13.56374192237854,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an AI sport",gemma4:e4b
+3,7,13.600493907928467,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an AI sport",gemma4:e4b
+4,7,13.575353145599365,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an AI sport",gemma4:e4b
+5,7,13.573085069656372,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-6.mp4,354,30,11.8,15,"
+You are an AI sport",gemma4:e4b
+6,7,13.568870067596436,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an AI sport",gemma4:e4b
+0,7,17.738961935043335,"The athlete demonstrates a strong and consistent release point with good body positioning. The major issue here is that the follow-through appears to be slightly abrupt, which could potentially affect the accuracy and distance of the throw. To improve, focusing on a smoother and more fluid follow-th",videoplayback.mp4,495,25,19.8,15,"
+You are an AI sport",llava:7b
+1,7,15.203665971755981,"The athlete demonstrates a strong and balanced stance with good body positioning throughout the throw. The release point is consistent and the follow-through is smooth. One area for improvement could be the initial phase of the throw where the arm motion appears to be slightly behind the body, which",videoplayback-2.mp4,681,30,22.7,15,"
+You are an AI sport",llava:7b
+2,7,15.260074853897095,One thing the athlete did well: The athlete has a good stance and appears to have a strong grip on the disc. They are also maintaining balance throughout the throw.,videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are an AI sport",llava:7b
+3,4,15.40636396408081,"The athlete demonstrates a good initial stance and grip on the discus. The release point is consistent throughout the frames, which suggests a controlled and focused throw. However, there are some noticeable flaws in the follow-through phase of the throw. The arm motion could be smoother and more co",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are an AI sport",llava:7b
+4,7,15.2603600025177,"The athlete demonstrates a strong and consistent throwing motion with good body positioning throughout the frames. The release point is well-executed, and the follow-through is smooth. One area for improvement could be the initial phase of the throw where the arm angle appears to be slightly behind,",videoplayback-5.mp4,1065,30,35.5,15,"
+You are an AI sport",llava:7b
+5,4,15.312749862670898,"The athlete demonstrates a good initial stance and grip on the discus. The release point is consistent across frames, indicating a controlled and focused throw. However, there are some issues with balance and follow-through that could be improved for a more polished performance. The weakest phase of",videoplayback-6.mp4,354,30,11.8,15,"
+You are an AI sport",llava:7b
+6,4,15.513569831848145,"The athlete appears to be in a good starting position with proper grip on the discus. The initial wind-up and stride are well executed, demonstrating good balance and timing. However, there is a noticeable issue with the release phase of the throw. The athlete's arm and body seem to be moving in a c",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are an AI sport",llava:7b
+0,8,26.63606882095337,-<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>耤到最后会让你到最后耤,videoplayback.mp4,495,25,19.8,15,"
+You are a brutally ",qwen2.5vl:7b
+1,7,16.99531388282776,"Great start, but focus on keeping your hips and shoulders aligned. The release looks strong, but try to keep your arm more relaxed to generate more power. Keep working on your balance and core engagement.",videoplayback-2.mp4,681,30,22.7,15,"
+You are a brutally ",qwen2.5vl:7b
+2,8,23.569957971572876,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>输卵到最后输卵到最后耤,videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a brutally ",qwen2.5vl:7b
+3,,23.543341875076294,,videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a brutally ",qwen2.5vl:7b
+4,7,18.96951389312744,"Good start, but focus on keeping your hips and shoulders aligned. The throwing arm lags well, but aim for a slightly higher release for more power.",videoplayback-5.mp4,1065,30,35.5,15,"
+You are a brutally ",qwen2.5vl:7b
+5,,23.68294906616211,,videoplayback-6.mp4,354,30,11.8,15,"
+You are a brutally ",qwen2.5vl:7b
+6,,25.825038194656372,,videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a brutally ",qwen2.5vl:7b
+0,6,51.83673596382141,"Okay, let's break this down. You're showing some potential, but there's a lot to clean up. 6/10. 1. **Balance:** You're wobbling a bit too much during the turn. Drive through your core, not your legs. 2. **Hip Lead:** Your hips are reacting *after* your shoulders. They need to be leading the charge.",videoplayback.mp4,495,25,19.8,15,"
+You are a brutally ",gemma3:12b
+1,6,48.64924192428589,"Okay, let's break this down. You're showing some potential, but there's a lot to clean up. 6/10. 1. **Balance:** You're wobbling a bit too much. Drive through the ground, plant your feet. 2. **Hips:** Your hips are reacting, but they're not *leading*. They need to initiate the rotation. Feel that *h",videoplayback-2.mp4,681,30,22.7,15,"
+You are a brutally ",gemma3:12b
+2,4,48.179964780807495,"Alright, let's break this down. You're looking shaky. You're losing balance in every frame. Your hips aren't driving the motion, your shoulders are leading. That arm is lagging *way* too much – it's like it's an afterthought. You're not getting any power out of that rotation. The release is low and…",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a brutally ",gemma3:12b
+3,5,48.3020339012146,"Okay, let's be honest. That's... not great. You're fighting balance the whole time. Hips are late, arm's dragging. You're not generating power, you're just flailing. Get your hips moving *first*. Arm follows. Release point is okay, but it's not gonna matter if the rest of it's a mess. Slow it down, ",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a brutally ",gemma3:12b
+4,6,48.41766405105591,"Okay, let's break this down. You're strong, I see that. But your technique is holding you back. 6/10. 
+
+First, your balance is shaky. You're leaning too far forward. Drive through your legs, keep your weight centered. 
+
+Your hips aren't leading. You're throwing with your arm, not your body. Feel the",videoplayback-5.mp4,1065,30,35.5,15,"
+You are a brutally ",gemma3:12b
+5,4,47.97678804397583,"Okay, let's be honest. That's... rough. You're fighting balance the whole time. Your hips aren't driving the throw, your arm is lagging way behind. You're basically just pushing the disc. Release point is low, no power. Work on your core stability, get your hips leading, and let your arm catch up. A",videoplayback-6.mp4,354,30,11.8,15,"
+You are a brutally ",gemma3:12b
+6,4,48.07651996612549,"Okay, let's be honest. That's not a throw. You're falling forward, not rotating. Your hips are late, your arm is dragging. You're basically just chucking it. You need to drive through your hips *first*, then let your arm follow. Think about rotating *around* your core, not just throwing your arm. We",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a brutally ",gemma3:12b
+0,6,15.263620138168335,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback.mp4,495,25,19.8,15,"
+You are a brutally ",gemma4:e4b
+1,6,10.937862873077393,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-2.mp4,681,30,22.7,15,"
+You are a brutally ",gemma4:e4b
+2,6,11.008280038833618,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a brutally ",gemma4:e4b
+3,6,10.994937896728516,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a brutally ",gemma4:e4b
+4,6,11.159806966781616,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-5.mp4,1065,30,35.5,15,"
+You are a brutally ",gemma4:e4b
+5,6,11.134682893753052,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-6.mp4,354,30,11.8,15,"
+You are a brutally ",gemma4:e4b
+6,6,11.232706785202026,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a brutally ",gemma4:e4b
+0,7,18.771565198898315,"Alright, you've got a good base here, but there are some areas for improvement. Your hips are slightly off-balance, which could be affecting your throw. You need to work on maintaining a more stable lower body position and keeping your weight centered over the foot. The arm lag is minimal, but it's ",videoplayback.mp4,495,25,19.8,15,"
+You are a brutally ",llava:7b
+1,7,15.662030220031738,"Hey there! You've got a solid base with your feet shoulder-width apart, which is great for stability. Your hips are slightly leading the shoulders, but that's not ideal for this throw. It looks like you're trying to generate power from your legs, which is good, but you might want to work on keeping ",videoplayback-2.mp4,681,30,22.7,15,"
+You are a brutally ",llava:7b
+2,7,15.688520908355713,"Hey there! You've got a strong foundation with your feet shoulder-width apart, which is great for stability. Your hips are slightly open, but you could work on keeping them more closed to generate more power from the lower body. The release looks good, but you might want to consider adding a slight,",videoplayback-3.mp4,500,30,16.666666666666668,15,"
+You are a brutally ",llava:7b
+3,7,15.740792036056519,"Alright, you've got a good base here, but your hips are a bit closed off. You want to keep them open for more power and balance. Your arm lag is decent, but you could work on the follow-through to get that extra oomph. The release point looks good, but make sure you're not too far ahead of the plate",videoplayback-4.mp4,179,30,5.966666666666667,15,"
+You are a brutally ",llava:7b
+4,7,15.627179861068726,"Hey there, you've got a solid base with your feet shoulder-width apart, which is good for stability. Your weight transfer from the back foot to the front foot looks strong, and that's great for generating power in the throw. However, I see that your hips are slightly closed, which could be limiting.",videoplayback-5.mp4,1065,30,35.5,15,"
+You are a brutally ",llava:7b
+5,5,15.504005193710327,"Hey there! You've got a good start with your throwing motion, but there are some areas that could use improvement. Your hips seem to be leading the shoulders, which is great for balance and power, but you might want to work on keeping your head still and eyes focused on the target. The release point",videoplayback-6.mp4,354,30,11.8,15,"
+You are a brutally ",llava:7b
+6,7,15.61394715309143,"Hey there! You've got a good start here, but let's focus on a few key areas for improvement. Firstly, your balance is a bit off; you need to keep your weight more centered over the throwing arm and maintain a stable base. Your hips should be leading the shoulders, not trailing behind. Secondly, your",videoplayback-7.mp4,617,29,21.275862068965516,15,"
+You are a brutally ",llava:7b
+0,,26.869081020355225,,videoplayback.mp4,495,25,19.8,18,"
+You are an elite Ol",qwen2.5vl:7b
+1,8,23.165836095809937,"The thrower demonstrates good balance and posture throughout the throw, maintaining a strong core and proper alignment. The rotation mechanics appear well-executed, with a good separation of the hips and shoulders. The footwork is solid, with a strong drive from the front foot. The release position,",videoplayback-2.mp4,681,30,22.7,18,"
+You are an elite Ol",qwen2.5vl:7b
+2,9,23.62992000579834,"'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>
+```GuidId0",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an elite Ol",qwen2.5vl:7b
+3,,22.689271688461304,,videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an elite Ol",qwen2.5vl:7b
+4,8,23.15592908859253,"The thrower demonstrates good balance and posture throughout the throw. The rotation mechanics appear to be well-executed, with a strong emphasis on hip and shoulder separation. The footwork is solid, and the release position is good. The follow-through is strong, indicating a good level of skill. ",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an elite Ol",qwen2.5vl:7b
+5,,22.705419063568115,,videoplayback-6.mp4,354,30,11.8,18,"
+You are an elite Ol",qwen2.5vl:7b
+6,,24.65985107421875,,videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an elite Ol",qwen2.5vl:7b
+0,9,50.6431999206543,"Sandra Perković demonstrates exceptional technique in this sequence. Her balance and posture are consistently stable, and her rotation mechanics are fluid and powerful, with excellent hip and shoulder separation. The release position is high and well-timed, and her follow-through is balanced and in-",videoplayback.mp4,495,25,19.8,18,"
+You are an elite Ol",gemma3:12b
+1,7,47.40521574020386,"This athlete demonstrates a solid foundation for a discus throw, exhibiting good posture and balance throughout the sequence. However, the hip and shoulder separation could be more pronounced, leading to a potentially less powerful rotation. The release point appears slightly early, and a more full,",videoplayback-2.mp4,681,30,22.7,18,"
+You are an elite Ol",gemma3:12b
+2,7,47.369828939437866,"The athlete demonstrates a solid foundation with good posture and balance throughout the throw. However, the rotation mechanics could be improved by maximizing hip and shoulder separation, which would generate more torque. The release position appears slightly early, potentially limiting the final ",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an elite Ol",gemma3:12b
+3,7,47.37962007522583,"The athlete demonstrates a solid foundation with good balance and a controlled approach. However, the hip and shoulder separation could be more pronounced to generate greater torque. Focus on driving the hips forward more aggressively during the rotation and ensuring the shoulders fully unwind at or",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an elite Ol",gemma3:12b
+4,9,47.59843873977661,"This is a very powerful and well-executed discus throw. The athlete demonstrates excellent hip and shoulder separation, generating significant torque for a long throw. The footwork is efficient, and the release position is well-aligned for optimal projection. A minor adjustment could be made to the ",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an elite Ol",gemma3:12b
+5,5,47.29734396934509,"The athlete demonstrates a basic understanding of the discus throw sequence, but there are significant areas for improvement. The rotation appears somewhat stiff, and the hip and shoulder separation isn't maximized, limiting power generation. Focus on improving core stability and rotational fluidity",videoplayback-6.mp4,354,30,11.8,18,"
+You are an elite Ol",gemma3:12b
+6,6,47.341055154800415,"The athlete demonstrates a decent level of coordination but lacks the power and efficiency of a more advanced thrower. The rotation appears somewhat restricted, and the hip and shoulder separation could be more pronounced to generate greater torque. Focus on improving core stability and rotational ",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an elite Ol",gemma3:12b
+0,7,18.512813091278076,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback.mp4,495,25,19.8,18,"
+You are an elite Ol",gemma4:e4b
+1,7,13.757741928100586,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-2.mp4,681,30,22.7,18,"
+You are an elite Ol",gemma4:e4b
+2,7,13.850892066955566,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an elite Ol",gemma4:e4b
+3,7,13.79973292350769,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an elite Ol",gemma4:e4b
+4,7,13.80860710144043,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an elite Ol",gemma4:e4b
+5,7,13.826070785522461,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-6.mp4,354,30,11.8,18,"
+You are an elite Ol",gemma4:e4b
+6,7,13.800859928131104,"The throw demonstrates solid power generation through the hips and a good overall arc. Focus on maintaining a more upright posture throughout the glide and ensuring the final 'punch' of the hips is explosive, rather than just rotational. Work on keeping the non-throwing side shoulder slightly ",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an elite Ol",gemma4:e4b
+0,7,18.115562915802002,"The thrower in the image demonstrates a solid discus throwing technique with good balance and posture throughout the entire sequence. The footwork is consistent and well-coordinated, leading to a strong hip and shoulder separation during the release phase. The follow-through is smooth and controlled",videoplayback.mp4,495,25,19.8,18,"
+You are an elite Ol",llava:7b
+1,7,15.57765507698059,"The thrower in the image demonstrates a good level of athleticism and control over their body mechanics. The initial stance appears balanced with a slight forward lean, which is common for discus throws to generate power. The footwork leading up to the release shows a smooth transition from the back",videoplayback-2.mp4,681,30,22.7,18,"
+You are an elite Ol",llava:7b
+2,7,15.814649820327759,"The thrower in the image demonstrates a good balance and posture throughout the discus throw. The footwork appears to be well-coordinated with the rotation mechanics of the body, which is essential for generating power and accuracy. The hip and shoulder separation are well executed, indicating a co-",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an elite Ol",llava:7b
+3,7,15.703047037124634,"The thrower in the image demonstrates a good balance and posture throughout the discus throw, with a strong hip and shoulder separation that suggests a powerful rotation. The release position is slightly off-center, which could affect the accuracy of the throw. The follow-through appears to be well-",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an elite Ol",llava:7b
+4,7,15.608451128005981,"The thrower in the image appears to demonstrate a solid foundation with balanced footwork and good hip positioning. The athlete's weight is well distributed over both feet, which is crucial for generating power and maintaining stability throughout the throw. The shoulder separation is also quite on-",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an elite Ol",llava:7b
+5,6,15.699542760848999,"The thrower's technique appears to be a mix of both good and bad elements. The initial balance and posture seem solid with the feet positioned well apart, which is good for stability. However, there are some issues with the hip and shoulder separation that could affect the rotation mechanics. The th",videoplayback-6.mp4,354,30,11.8,18,"
+You are an elite Ol",llava:7b
+6,6,15.660381078720093,"The thrower in the image demonstrates a good starting position with a balanced stance and proper grip on the discus. The initial rotation mechanics appear to be well executed, with the hips and shoulders rotating together smoothly. However, there is room for improvement in footwork, as the back foot",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an elite Ol",llava:7b
+0,2,26.22605299949646,<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>,videoplayback.mp4,495,25,19.8,18,"
+You are a discus co",qwen2.5vl:7b
+1,7,20.321887969970703,"The thrower's follow-through is not fully extended, which could be improved by ensuring the arm is fully extended after releasing the discus. This would help in achieving a more powerful and accurate throw.",videoplayback-2.mp4,681,30,22.7,18,"
+You are a discus co",qwen2.5vl:7b
+2,8,23.53472399711609,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>FilterWhere,videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a discus co",qwen2.5vl:7b
+3,10,23.659669160842896,-<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>会让你到最后会让你赘２,videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a discus co",qwen2.5vl:7b
+4,7,20.01263999938965,"The thrower's follow-through is not fully extended, which could be improved by ensuring the discus is fully released and the body is fully rotated for maximum distance.",videoplayback-5.mp4,1065,30,35.5,18,"
+You are a discus co",qwen2.5vl:7b
+5,8,23.23013687133789,-<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>会让你到最后会让你赘缔,videoplayback-6.mp4,354,30,11.8,18,"
+You are a discus co",qwen2.5vl:7b
+6,1,23.213944911956787,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>会让你到最后会让你远景,videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a discus co",qwen2.5vl:7b
+0,6,49.79418396949768,The athlete's weight transfer is too far forward during the turn. This causes a loss of power and stability. Shift the weight back slightly during the turn to engage the core and legs more effectively.,videoplayback.mp4,495,25,19.8,18,"
+You are a discus co",gemma3:12b
+1,6,46.10846424102783,The athlete's weight distribution is consistently too far forward. This limits power generation and rotational potential. Shift the weight back towards the rear foot during the wind-up.,videoplayback-2.mp4,681,30,22.7,18,"
+You are a discus co",gemma3:12b
+2,5,46.979827880859375,The athlete's weight transfer is significantly delayed and backward. This is causing a loss of momentum and power. Focus on initiating the rotation and weight shift forward earlier in the sequence to generate more force and a more efficient throw.,videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a discus co",gemma3:12b
+3,6,46.280641078948975,The athlete's weight transfer is significantly delayed. Initiate the rotation earlier by driving the lead leg forward and down more aggressively. This will generate more torque and power.,videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a discus co",gemma3:12b
+4,4,46.221943855285645,The athlete's weight distribution is consistently too far forward. This limits power generation and rotational speed. Shift the weight back towards the rear foot during the wind-up and rotation.,videoplayback-5.mp4,1065,30,35.5,18,"
+You are a discus co",gemma3:12b
+5,3,46.09052014350891,The athlete's weight is too far forward during the throw. This limits power and control. Shift the weight back during the rotation to generate more force.,videoplayback-6.mp4,354,30,11.8,18,"
+You are a discus co",gemma3:12b
+6,4,46.07674217224121,"The athlete's weight transfer is severely delayed. The hips remain behind, inhibiting power generation. Focus on initiating the rotation with the hips earlier in the sequence.",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a discus co",gemma3:12b
+0,6,17.45035982131958,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback.mp4,495,25,19.8,18,"
+You are a discus co",gemma4:e4b
+1,6,13.232670783996582,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-2.mp4,681,30,22.7,18,"
+You are a discus co",gemma4:e4b
+2,6,13.248615741729736,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a discus co",gemma4:e4b
+3,6,13.264882802963257,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a discus co",gemma4:e4b
+4,6,13.226274013519287,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-5.mp4,1065,30,35.5,18,"
+You are a discus co",gemma4:e4b
+5,6,13.26880407333374,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-6.mp4,354,30,11.8,18,"
+You are a discus co",gemma4:e4b
+6,6,13.249041318893433,The biggest mistake is premature extension in the delivery. You are losing energy by 'throwing' with your arms instead of driving through the hips and core. Focus on keeping your chest ,videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a discus co",gemma4:e4b
+0,7,18.126641035079956,"The biggest mistake hurting the throw is the lack of proper follow-through on the release. The discus thrower's arm should be fully extended and the discus should be released with a smooth, fluid motion to achieve maximum distance and accuracy.",videoplayback.mp4,495,25,19.8,18,"
+You are a discus co",llava:7b
+1,7,15.331519842147827,"The athlete's right leg is lifted off the ground during the throw, which could affect balance and stability. To improve the throw, maintaining a stable base with both feet on the ground would be beneficial for better control and accuracy.",videoplayback-2.mp4,681,30,22.7,18,"
+You are a discus co",llava:7b
+2,1,15.860904932022095,"The image shows a person throwing a discus in a field. To identify the biggest flaw in the throw, we need to consider factors such as grip, stance, arm angle, and release point. From this single frame, it's difficult to provide a definitive answer without more context or multiple frames of the throw",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a discus co",llava:7b
+3,4,15.791430950164795,"The biggest flaw in this sequence is the lack of proper follow-through after the release of the discus. The thrower's arm should continue to move forward and downward after releasing the discus for maximum distance and accuracy. This would improve the throw by increasing the spin on the discus, thus",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a discus co",llava:7b
+4,7,15.878513813018799,"The image shows a sequence of images with an athlete throwing a discus. To identify the biggest flaw in the throw, we need to consider factors such as body positioning, grip on the discus, release angle, and follow-through. From what I can see, the athlete's body is not fully extended at the time of",videoplayback-5.mp4,1065,30,35.5,18,"
+You are a discus co",llava:7b
+5,1,15.608120918273926,"The image shows a person throwing a discus, but there is no visible discus in the scene. This is the biggest flaw as it's impossible to provide feedback on the throw without an actual object to throw or a clear indication of where it should be thrown.",videoplayback-6.mp4,354,30,11.8,18,"
+You are a discus co",llava:7b
+6,4,15.678222179412842,"The thrower's body position is slightly off-center, which could affect balance and accuracy. To improve the throw, the athlete should focus on maintaining a more centered stance with feet shoulder-width apart and knees slightly bent to generate power from the legs while keeping the upper body stable",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a discus co",llava:7b
+0,,26.702622890472412,,videoplayback.mp4,495,25,19.8,18,"
+You are an AI sport",qwen2.5vl:7b
+1,7,23.01005792617798,"The athlete demonstrates a technically good throw with minor issues. She maintains good balance and timing throughout the throw, with a strong release. However, there is a slight imbalance in the final phase, where her body leans slightly forward. The athlete could improve her posture in the final, ",videoplayback-2.mp4,681,30,22.7,18,"
+You are an AI sport",qwen2.5vl:7b
+2,8,23.68509793281555,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>โปรแ硌尬窸窸贴吧窸,videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an AI sport",qwen2.5vl:7b
+3,,22.38448190689087,,videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an AI sport",qwen2.5vl:7b
+4,7,23.155985116958618,"The athlete demonstrates a technically good throw with minor issues. The athlete's form is consistent throughout the throw, and the release appears to be well-timed. However, there is a slight imbalance in the final phase of the throw, which could be improved for better consistency. The athlete's gá",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an AI sport",qwen2.5vl:7b
+5,,22.426520109176636,,videoplayback-6.mp4,354,30,11.8,18,"
+You are an AI sport",qwen2.5vl:7b
+6,,24.32973599433899,,videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an AI sport",qwen2.5vl:7b
+0,6,50.74540901184082,"This is a decent throw with some noticeable flaws. Sandra Perkovic demonstrates good power generation and a strong rotational movement throughout the throw, which is evident in the body positioning and arm extension. Her stance and initial balance are also relatively stable. However, the release is,",videoplayback.mp4,495,25,19.8,18,"
+You are an AI sport",gemma3:12b
+1,6,47.50027799606323,"This is a decent throw with some noticeable flaws. The athlete demonstrates good core stability and rotation throughout the throw, which is a positive aspect of their technique. However, the lower body drive and transfer of weight appear somewhat disjointed, particularly in the early phases. The arm",videoplayback-2.mp4,681,30,22.7,18,"
+You are an AI sport",gemma3:12b
+2,5,48.01298904418945,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotational power and a strong core engagement throughout the sequence, which is a positive sign. However, the footwork and balance appear somewhat unstable, particularly during the final approach and release. The hips, ",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an AI sport",gemma3:12b
+3,5,47.75863814353943,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotation through the torso, which is a positive aspect of their technique. However, the stance and balance appear somewhat unstable, particularly during the wind-up and delivery phases. The athlete's weight transfer isn",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an AI sport",gemma3:12b
+4,6,47.70427203178406,"This is a decent throw with some noticeable flaws. The athlete demonstrates good power generation and rotation through the core, which is evident in the sequential frames. The arm action looks relatively smooth and coordinated with the lower body rotation. However, the athlete's stance and balance, ",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an AI sport",gemma3:12b
+5,5,47.637511014938354,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotational power and a wide stance, which is a positive aspect of their technique. However, the throw lacks a strong drive from the legs and hips, resulting in a somewhat limited release angle. The weakest phase appears",videoplayback-6.mp4,354,30,11.8,18,"
+You are an AI sport",gemma3:12b
+6,5,47.786142349243164,"This is a decent throw with some noticeable flaws. The athlete demonstrates good rotation through the torso, which is crucial for generating power in discus. However, the lower body seems somewhat disconnected from the upper body, particularly during the release phase. The athlete's stance and foot-",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an AI sport",gemma3:12b
+0,7,18.422667026519775,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback.mp4,495,25,19.8,18,"
+You are an AI sport",gemma4:e4b
+1,7,13.599814891815186,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-2.mp4,681,30,22.7,18,"
+You are an AI sport",gemma4:e4b
+2,7,13.695568799972534,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an AI sport",gemma4:e4b
+3,7,13.599964141845703,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an AI sport",gemma4:e4b
+4,7,13.622187852859497,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an AI sport",gemma4:e4b
+5,7,13.660085916519165,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-6.mp4,354,30,11.8,18,"
+You are an AI sport",gemma4:e4b
+6,7,13.633725881576538,"The athlete demonstrated good power generation through the initial rotational phases, showing solid core engagement. To improve, the athlete needs to focus on maintaining a more consistent, upright posture through the final moments of the glide/delivery to ensure maximum energy transfer. The weakest",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an AI sport",gemma4:e4b
+0,7,18.31046414375305,"The athlete has demonstrated a strong and consistent release point throughout the sequence. The initial wind-up is smooth and balanced, which is crucial for maintaining accuracy and power in the throw. However, there are some minor issues with the follow-through that could be improved to enhance the",videoplayback.mp4,495,25,19.8,18,"
+You are an AI sport",llava:7b
+1,7,15.542094707489014,"The athlete demonstrates a strong and balanced stance with good body positioning throughout the throw. The release point is consistent and the follow-through is smooth. One area for improvement could be the initial phase of the throw where the arm motion appears to be slightly behind the body, which",videoplayback-2.mp4,681,30,22.7,18,"
+You are an AI sport",llava:7b
+2,7,15.68688416481018,One thing the athlete did well: The athlete has a good stance and appears to have a strong grip on the disc. They are also maintaining a balanced posture throughout the throw.,videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are an AI sport",llava:7b
+3,4,15.734458208084106,"The athlete demonstrates a good initial stance and grip on the discus. The release point is consistent throughout the frames, which suggests a controlled and focused throw. However, there are some noticeable flaws in the follow-through phase of the throw. The arm motion could be smoother and more co",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are an AI sport",llava:7b
+4,7,15.61518907546997,"The athlete demonstrates a strong and consistent throwing motion with good body positioning throughout the frames. The release point is well-executed, and the follow-through is smooth. One area for improvement could be the initial phase of the throw where the arm angle appears to be slightly behind,",videoplayback-5.mp4,1065,30,35.5,18,"
+You are an AI sport",llava:7b
+5,4,15.605698108673096,"The athlete demonstrates a decent throw with noticeable flaws. One aspect that stands out as an improvement area is the follow-through after release. The follow-through should be smoother and more controlled to ensure maximum distance and accuracy. Additionally, maintaining a consistent release post",videoplayback-6.mp4,354,30,11.8,18,"
+You are an AI sport",llava:7b
+6,4,15.811907768249512,"The athlete appears to be in a good starting position with a balanced stance and grip on the discus. The initial wind-up is smooth, and the release seems consistent. However, there are some noticeable flaws that could impact the throw's accuracy and distance. One area of improvement would be to work",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are an AI sport",llava:7b
+0,10,27.526726245880127,-<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>耤到最后会让你到最后赘,videoplayback.mp4,495,25,19.8,18,"
+You are a brutally ",qwen2.5vl:7b
+1,7,19.945945262908936,Great start with the hips leading the shoulders. Keep the throwing arm lagging correctly. Release appears high and powerful. Focus on maintaining balance throughout the throw.,videoplayback-2.mp4,681,30,22.7,18,"
+You are a brutally ",qwen2.5vl:7b
+2,8,23.774271965026855,'<|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|><|im_start|>输卵到最后输卵到最后窸,videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a brutally ",qwen2.5vl:7b
+3,,23.782324075698853,,videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a brutally ",qwen2.5vl:7b
+4,7,22.33540105819702,"Good balance, but could improve by keeping the hips more in line with the shoulders. The throwing arm lags well, but the release could be higher and more powerful.",videoplayback-5.mp4,1065,30,35.5,18,"
+You are a brutally ",qwen2.5vl:7b
+5,,23.747469902038574,,videoplayback-6.mp4,354,30,11.8,18,"
+You are a brutally ",qwen2.5vl:7b
+6,,25.662606954574585,,videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a brutally ",qwen2.5vl:7b
+0,7,51.885414123535156,"Okay, let's break this down. You're showing some good power, but there's a lot of wasted energy. 7/10. 1. **Balance:** You're wobbling a bit on the plant foot. Drive through that leg, don't let it sink. 2. **Hip Lead:** Your hips are *trying* to lead, but your shoulders are catching up too fast. You",videoplayback.mp4,495,25,19.8,18,"
+You are a brutally ",gemma3:12b
+1,6,48.415364027023315,"Okay, let's break this down. You're showing some potential, but there's a lot of room for improvement. 6/10. 
+
+First, your balance is shaky. You're leaning too far forward. Drive through your hips *before* you rotate your shoulders. You're letting your shoulders lead, and that's killing your power. ",videoplayback-2.mp4,681,30,22.7,18,"
+You are a brutally ",gemma3:12b
+2,4,48.62344217300415,"Okay, let's be honest. That's... not great. You're fighting balance the whole time. You're leaning forward, and your hips aren't driving the motion. They're reacting *to* the arm. Your arm is late, too late. It's like you're trying to pull the throw, not *drive* it. You're not getting any power out.",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a brutally ",gemma3:12b
+3,5,48.51829290390015,"Okay, let's be honest. You're getting by, but that's it. You're not *driving* with your hips. You're mostly rotating your torso. That's robbing you of power. See how your arm is lagging? It's reacting, not leading. You're not generating force. Get your hips moving *first*. Feel the ground. And that'",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a brutally ",gemma3:12b
+4,6,48.47706604003906,"Okay, let's break this down. You're strong, I see that. But your technique is holding you back. 
+
+**First few frames:** You're a little stiff. Need to get that hip rotation going *before* your shoulders. You're anticipating the throw, not letting the momentum build. 
+
+**Mid-sequence:** See how your ",videoplayback-5.mp4,1065,30,35.5,18,"
+You are a brutally ",gemma3:12b
+5,4,48.59388279914856,"Okay, let's be honest. That's not a throw. You're falling forward, losing all your power. Your hips aren't driving the motion, your arm is just flailing. You're not getting any rotation. You're basically just pushing the disc. 1. Start with a solid base. 2. Drive with your hips, not your arms. 3.  A",videoplayback-6.mp4,354,30,11.8,18,"
+You are a brutally ",gemma3:12b
+6,4,48.18782114982605,"Okay, let's be honest. That's not a throw. You're falling forward, losing all your power. Your hips aren't driving the rotation, your arm is lagging way behind. You're basically just pushing the disc. You need to focus on rotating your hips first, then letting your arm follow. Get your weight over, ",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a brutally ",gemma3:12b
+0,6,15.398205995559692,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback.mp4,495,25,19.8,18,"
+You are a brutally ",gemma4:e4b
+1,6,11.0523042678833,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-2.mp4,681,30,22.7,18,"
+You are a brutally ",gemma4:e4b
+2,6,11.095379829406738,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a brutally ",gemma4:e4b
+3,6,11.088451623916626,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a brutally ",gemma4:e4b
+4,6,11.052129983901978,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-5.mp4,1065,30,35.5,18,"
+You are a brutally ",gemma4:e4b
+5,6,11.104262113571167,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-6.mp4,354,30,11.8,18,"
+You are a brutally ",gemma4:e4b
+6,6,11.076972961425781,"Your lower body is a mess. You're losing balance on the follow-through, which means you're bleeding energy. Focus on driving *through* the target, not just *at* it. Hips first, always. Keep your core tight through the whole motion.",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a brutally ",gemma4:e4b
+0,7,18.28470277786255,"Alright, you've got a good base here, but there are some areas for improvement. Your hips are slightly off-balance, which could be affecting your throw. You need to work on maintaining a more stable lower body position and keeping your weight centered over the foot. The arm lag is minimal, but it's ",videoplayback.mp4,495,25,19.8,18,"
+You are a brutally ",llava:7b
+1,7,15.930361986160278,"Hey there! You've got a great start here with your throw. Your hips are leading nicely, which is good for generating power. However, I see that your arm lag is a bit behind the hips, which could be affecting your release. To improve this, try to initiate your throwing motion from the hips and then, ",videoplayback-2.mp4,681,30,22.7,18,"
+You are a brutally ",llava:7b
+2,7,15.880126953125,"Hey there! You've got a strong foundation with your feet shoulder-width apart, which is great for stability. Your hips are slightly leading the shoulders, but you could work on keeping them more aligned over the toes to improve balance and power transfer. The release appears to be high and powerful,",videoplayback-3.mp4,500,30,16.666666666666668,18,"
+You are a brutally ",llava:7b
+3,7,15.957065105438232,"Alright, you've got a good base with your feet shoulder-width apart, which is great for balance. Your hips are slightly closed, but that's okay as long as the follow-through is smooth and you maintain control of the ball. The arm lag is minimal, which is good for accuracy, but you might want to work",videoplayback-4.mp4,179,30,5.966666666666667,18,"
+You are a brutally ",llava:7b
+4,7,15.944746017456055,"Hey there, Jamaica! You've got a solid foundation with your feet placement, but you could use a bit more weight transfer from the back foot to the front foot for better balance and power. Your hips are slightly closed, which might be affecting your throw. To improve this, try to keep them open and h",videoplayback-5.mp4,1065,30,35.5,18,"
+You are a brutally ",llava:7b
+5,5,15.946753025054932,"Alright, you've got a good start here! Your hips are leading the shoulders, which is great for generating power in your throw. However, it looks like your arm lag is a bit behind the hips, which could be affecting your accuracy and distance. To improve this, try to initiate your throwing motion with",videoplayback-6.mp4,354,30,11.8,18,"
+You are a brutally ",llava:7b
+6,7,15.988095998764038,"Hey there! You've got a good start here, but let's focus on a few key areas for improvement. Firstly, your balance is a bit off; you need to keep your weight more centered over the throwing arm and maintain a stable base. Your hips should be leading the shoulders, not trailing behind. Secondly, your",videoplayback-7.mp4,617,29,21.275862068965516,18,"
+You are a brutally ",llava:7b

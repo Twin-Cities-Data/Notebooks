@@ -135,9 +135,10 @@ with left_col:
             time.sleep(1)
             img_paths=write_temp_images_for_llm(overs)
             progress_bar.progress(75,text="AI Coach is thinking now..")
-            crit=critique_throw(image_paths=img_paths,mod='gemma4:e4b',prompt=throwprompt )
+            crit=critique_throw(image_paths=img_paths,prompt=throwprompt )
             progress_bar.progress(100,text="Done!")
-            st.write(crit)
+            st.metric(label="Throw Quality", value=crit.score,delta="Out of 10",delta_arrow='off' )
+            st.write(crit.feedback)
         
         finally:
             if os.path.exists(video_path):

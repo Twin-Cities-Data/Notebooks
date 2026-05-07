@@ -13,6 +13,8 @@ import streamlit as st
 from pydantic import BaseModel, Field
 
 import time
+import tempfile
+import os
 ############################################################
 # Define the output schema for the critique using Pydantic
 ############################################################
@@ -112,17 +114,31 @@ with right_col:
 
 with left_col:
     st.header("Get Feedback on Your Throw")
-    if st.button("Run Pipeline"):
+    if st.button("Run Analysis"):
+        
+        if uploaded_file is None:
+            st.warning("Upload an MP4 first.")
+            st.stop()
+
         progress_bar = st.progress(0,text="Turning video into frames...")
-        time.sleep(1)
-        frames = sample_frames_from_mp4("videoplayback-2.mp4",10)
-        progress_bar.progress(25,text="Generating pose overlays...")
-        time.sleep(1)
-        overs=pose_overlays_from_frames(frames,detector)
-        progress_bar.progress(50,text="Writing temporary images for LLM...")
-        time.sleep(1)
-        img_paths=write_temp_images_for_llm(overs)
-        progress_bar.progress(75,text="Running critique with LLM")
-        crit=critique_throw(image_paths=img_paths,mod='gemma4:e4b',prompt=throwprompt )
-        progress_bar.progress(100,text="Done!")
-        st.write(crit)
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".mp4") as tmp:
+            tmp.write(uploaded_file.getbuffer())
+            video_path = tmp.name
+
+        try:
+            time.sleep(1)
+            frames = sample_frames_from_mp4(video_path,18)
+            progress_bar.progress(25,text="Generating pose overlays...")
+            time.sleep(1)
+            overs=pose_overlays_from_frames(frames,detector)
+            progress_bar.progress(50,text="Writing temporary images for AI Coach...")
+            time.sleep(1)
+            img_paths=write_temp_images_for_llm(overs)
+            progress_bar.progress(75,text="AI Coach is thinking now..")
+            crit=critique_throw(image_paths=img_paths,mod='gemma4:e4b',prompt=throwprompt )
+            progress_bar.progress(100,text="Done!")
+            st.write(crit)
+        
+        finally:
+            if os.path.exists(video_path):
+                os.remove(video_path)
